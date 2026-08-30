@@ -19,3 +19,92 @@ PSLCODE 225	9 1	1 5	Source Access Key	Target Access Key
 0006426A/22/0	&Reset to Default	إ&عادة التعيين	R	?
 0006426A/23/0	&Copy Button Image	&نسخ صورة الزر	C	?
 0006426A/24/0	&Delete	&حذف	D	?
+0006426A/26/0	&Button Appearance...	&مظهر الزر...	B	B
+0006426A/27/0	&Image	&صورة	I	I
+0006426A/28/0	&Text	&نص	T	T
+0006426A/29/0	Image &and Text	&صورة ونص	A	A
+0006426A/31/0	&Start Group	&بدء مجموعة	S	S
+0006426A/32/0	Hotkeys	اختصارات لوحة المفاتيح		
+0006426A/34/0	&Show/hide Snagit	&إظهار/إخفاء Snagit	S	S
+0006426A/35/0	Ctrl	Ctrl		
+0006426A/36/0	Shift	Shift		
+0006426A/37/0	Alt	Alt		
+0006426A/38/0	 +        CTRL	 +        CTRL		
+0006426A/39/0	 +        SHIFT	 +        SHIFT		
+0006426A/40/0	 +        ALT	 +        ALT		
+0006426A/42/0	&Repeat last capture	&تكرار آخر التقاط	R	R
+0006426A/43/0	Ctrl	Ctrl		
+0006426A/44/0	Shift	Shift		
+0006426A/45/0	Alt	Alt		
+0006426A/46/0	 +        CTRL	 +        CTRL		
+0006426A/47/0	 +        SHIFT	 +        SHIFT		
+0006426A/48/0	 +        ALT	 +        ALT		
+0006426A/50/0	&Video capture start/pause/resume	&بدء/إيقاف مؤقت/استئناف تسجيل الفيديو	V	V
+0006426A/51/0	Ctrl	Ctrl		
+0006426A/52/0	Shift	Shift		
+0006426A/53/0	Alt	Alt		
+0006426A/54/0	 +        CTRL	 +        CTRL		
+0006426A/55/0	 +        SHIFT	 +        SHIFT		
+0006426A/56/0	 +        ALT	 +        ALT		
+0006426A/58/0	Video &capture stop	إيقاف &التقاط الفيديو	C	C
+0006426A/59/0	Ctrl	Ctrl		
+0006426A/60/0	Shift	Shift		
+0006426A/61/0	Alt	Alt		
+0006426A/62/0	 +        CTRL	 +        CTRL		
+0006426A/63/0	 +        SHIFT	 +        SHIFT		
+0006426A/64/0	 +        ALT	 +        ALT		
+0006426A/66/0	Video capture enter/exit Draw mode	الدخول/الخروج من وضع الرسم أثناء التقاط الفيديو		
+0006426A/67/0	Ctrl	Ctrl		
+0006426A/68/0	Shift	Shift		
+0006426A/69/0	Alt	Alt		
+0006426A/70/0	 +        CTRL	 +        CTRL		
+0006426A/71/0	 +        SHIFT	 +        SHIFT		
+0006426A/72/0	 +        ALT	 +        ALT		
+0006426A/74/0	&Allow Snagit to override other hotkey assignments	&السماح لـ Snagit بتجاوز اختصارات لوحة المفاتيح الأخرى	A	A
+0006426A/75/0	Restore &Defaults	استعادة &الإعدادات الافتراضية	D	D
+0006426A/76/0	General	عام		
+0006426A/78/0	&Run Snagit when Windows starts	&تشغيل Snagit عند بدء تشغيل Windows	R	R
+0006426A/80/0	Capture &Window	التقاط &النافذة	W	W
+0006426A/81/0	Capture Window && &Widget	نافذة الالتقاط && &الأداة	W	W
+0006426A/83/0	Color &theme:	&نمط اللون:	T	T
+0006426A/85/0	&Automatically check for updates	&التحقق تلقائيًا من وجود تحديثات	A	A
+0006426A/86/0	&Prompt before update check	&المطالبة قبل التحقق من التحديث	P	P
+0006426A/87/0	&Days between check:	&عدد الأيام بين كل تحقق:	D	D
+0006426A/89/0	"Data, privacy && notifications - see Snagit Editor Preferences"	البيانات والخصوصية && الإشعارات - راجع تفضيلات محرر Snagit		
+0006426A/91/0	Printer Capture Preferences	تفضيلات التقاط الطابعة		
+0006426A/94/0	&Temporary capture file directory	&دليل ملف الالتقاط المؤقت	T	T
+0006426A/96/0	Select capture file directory	حدد دليل ملف الالتقاط		
+0006426A/97/0	&Close Snagit after capture (if Snagit was not running)	&إغلاق Snagit بعد الالتقاط (إذا لم يكن Snagit قيد التشغيل)	C	C
+0006426A/98/0	Snagit Printer Name	اسم طابعة Snagit		
+0006426A/100/0	&Snagit printer name:	&اسم طابعة Snagit:	S	S
+0006426A/102/0	OK	موافق		
+0006426A/103/0	Cancel	إلغاء الأمر		
+0006426A/104/0	Snagit	Snagit		
+0006426A/108/0	&Do not show this again	&عدم إظهار هذا مرة أخرى	D	D
+0006426A/109/0	&Yes	&نعم	Y	Y
+0006426A/110/0	&No	&لا	N	N
+0006426A/111/0	Snagit Caption	تسمية Snagit التوضيحية		
+0006426A/114/0	OK	موافق		
+0006426A/115/0	Cancel	إلغاء الأمر		
+0006426A/116/0	Capture	التقاط		
+0006426A/118/0	&Hide Snagit during capture and remove Snagit controls from completed captures	&إخفاء Snagit أثناء الالتقاط وإزالة عناصر تحكم Snagit من عمليات الالتقاط المكتملة	H	H
+0006426A/119/0	&Open screenshots copied from system tools	&فتح لقطات الشاشة المنسوخة من أدوات النظام	O	O
+0006426A/120/0	Show ma&gnifier	إظهار ال&مكبّر	G	G
+0006426A/121/0	Simplified &crosshairs	شعيرات تصويب &مبسطة	C	C
+0006426A/122/0	Require Start &button for scrolling capture	يتطلب زر &بدء للالتقاط بالتمرير	B	B
+0006426A/123/0	Show alert when microphone is muted	إظهار تنبيهًا عند كتم صوت الميكروفون		
+0006426A/124/0	S&upport HDR color settings	&دعم إعدادات ألوان HDR	U	U
+0006426A/125/0	Video Recording	تسجيل الفيديو		
+0006426A/126/0	&Automatically start video recording	&بدء تسجيل الفيديو تلقائيًا	A	A
+0006426A/127/0	Show &video countdown	إظهار &العد التنازلي للفيديو	V	V
+0006426A/128/0	Show Ready to Record window	إظهار نافذة الاستعداد للتسجيل		
+0006426A/129/0	&Minimize controls when recording fullscreen with one monitor	&تصغير عناصر التحكم عند التسجيل بملء الشاشة على شاشة واحدة	M	M
+0006426A/130/0	&Scale captures down to 1920 x 1080 (recommended)	&تصغير حجم اللقطات إلى 1920 × 1080 (موصى به)	S	S
+0006426A/131/0	&Enable camera	&تمكين الكاميرا	E	E
+0006426A/132/0	&Disable hardware accelerated recording	&تعطيل التسجيل المسرّع بواسطة العتاد	D	D
+0006426A/133/0	Vi&deo Quality:	جودة ال&فيديو:	D	D
+0006426A/135/0	P&rinter Capture Settings...	&إعدادات طابعة الالتقاط...	R	R
+0006426A/136/0	Snagit Printers	طابعات Snagit		
+0006426A/138/0	&Snagit printer:	&طابعة Snagit:	S	S
+0006426A/140/0	&Properties...	&خصائص...	P	P
+0006426A/141/0	&Add a Snagit Printer...	&إضافة طابعة Snagit...	A	A
