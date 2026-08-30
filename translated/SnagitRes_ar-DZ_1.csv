@@ -19,92 +19,2074 @@ PSLCODE 225	9 1	1 5	Source Access Key	Target Access Key
 0006426A/22/0	&Reset to Default	إ&عادة التعيين	R	?
 0006426A/23/0	&Copy Button Image	&نسخ صورة الزر	C	?
 0006426A/24/0	&Delete	&حذف	D	?
-0006426A/26/0	&Button Appearance...	&مظهر الزر...	B	B
-0006426A/27/0	&Image	&صورة	I	I
-0006426A/28/0	&Text	&نص	T	T
-0006426A/29/0	Image &and Text	&صورة ونص	A	A
-0006426A/31/0	&Start Group	&بدء مجموعة	S	S
-0006426A/32/0	Hotkeys	اختصارات لوحة المفاتيح		
-0006426A/34/0	&Show/hide Snagit	&إظهار/إخفاء Snagit	S	S
+0006426A/26/0	&Button Appearance...	&Button Appearance...	B	B
+0006426A/27/0	&Image	&Image	I	I
+0006426A/28/0	&Text	&Text	T	T
+0006426A/29/0	Image &and Text	Image &and Text	A	A
+0006426A/31/0	&Start Group	&Start Group	S	S
+0006426A/32/0	Hotkeys	Hotkeys		
+0006426A/34/0	&Show/hide Snagit	&Show/hide Snagit	S	S
 0006426A/35/0	Ctrl	Ctrl		
 0006426A/36/0	Shift	Shift		
 0006426A/37/0	Alt	Alt		
 0006426A/38/0	 +        CTRL	 +        CTRL		
 0006426A/39/0	 +        SHIFT	 +        SHIFT		
 0006426A/40/0	 +        ALT	 +        ALT		
-0006426A/42/0	&Repeat last capture	&تكرار آخر التقاط	R	R
+0006426A/42/0	&Repeat last capture	&Repeat last capture	R	R
 0006426A/43/0	Ctrl	Ctrl		
 0006426A/44/0	Shift	Shift		
 0006426A/45/0	Alt	Alt		
 0006426A/46/0	 +        CTRL	 +        CTRL		
 0006426A/47/0	 +        SHIFT	 +        SHIFT		
 0006426A/48/0	 +        ALT	 +        ALT		
-0006426A/50/0	&Video capture start/pause/resume	&بدء/إيقاف مؤقت/استئناف تسجيل الفيديو	V	V
+0006426A/50/0	&Video capture start/pause/resume	&Video capture start/pause/resume	V	V
 0006426A/51/0	Ctrl	Ctrl		
 0006426A/52/0	Shift	Shift		
 0006426A/53/0	Alt	Alt		
 0006426A/54/0	 +        CTRL	 +        CTRL		
 0006426A/55/0	 +        SHIFT	 +        SHIFT		
 0006426A/56/0	 +        ALT	 +        ALT		
-0006426A/58/0	Video &capture stop	إيقاف &التقاط الفيديو	C	C
+0006426A/58/0	Video &capture stop	Video &capture stop	C	C
 0006426A/59/0	Ctrl	Ctrl		
 0006426A/60/0	Shift	Shift		
 0006426A/61/0	Alt	Alt		
 0006426A/62/0	 +        CTRL	 +        CTRL		
 0006426A/63/0	 +        SHIFT	 +        SHIFT		
 0006426A/64/0	 +        ALT	 +        ALT		
-0006426A/66/0	Video capture enter/exit Draw mode	الدخول/الخروج من وضع الرسم أثناء التقاط الفيديو		
+0006426A/66/0	Video capture enter/exit Draw mode	Video capture enter/exit Draw mode		
 0006426A/67/0	Ctrl	Ctrl		
 0006426A/68/0	Shift	Shift		
 0006426A/69/0	Alt	Alt		
 0006426A/70/0	 +        CTRL	 +        CTRL		
 0006426A/71/0	 +        SHIFT	 +        SHIFT		
 0006426A/72/0	 +        ALT	 +        ALT		
-0006426A/74/0	&Allow Snagit to override other hotkey assignments	&السماح لـ Snagit بتجاوز اختصارات لوحة المفاتيح الأخرى	A	A
-0006426A/75/0	Restore &Defaults	استعادة &الإعدادات الافتراضية	D	D
-0006426A/76/0	General	عام		
-0006426A/78/0	&Run Snagit when Windows starts	&تشغيل Snagit عند بدء تشغيل Windows	R	R
-0006426A/80/0	Capture &Window	التقاط &النافذة	W	W
-0006426A/81/0	Capture Window && &Widget	نافذة الالتقاط && &الأداة	W	W
-0006426A/83/0	Color &theme:	&نمط اللون:	T	T
-0006426A/85/0	&Automatically check for updates	&التحقق تلقائيًا من وجود تحديثات	A	A
-0006426A/86/0	&Prompt before update check	&المطالبة قبل التحقق من التحديث	P	P
-0006426A/87/0	&Days between check:	&عدد الأيام بين كل تحقق:	D	D
-0006426A/89/0	"Data, privacy && notifications - see Snagit Editor Preferences"	البيانات والخصوصية && الإشعارات - راجع تفضيلات محرر Snagit		
-0006426A/91/0	Printer Capture Preferences	تفضيلات التقاط الطابعة		
-0006426A/94/0	&Temporary capture file directory	&دليل ملف الالتقاط المؤقت	T	T
-0006426A/96/0	Select capture file directory	حدد دليل ملف الالتقاط		
-0006426A/97/0	&Close Snagit after capture (if Snagit was not running)	&إغلاق Snagit بعد الالتقاط (إذا لم يكن Snagit قيد التشغيل)	C	C
-0006426A/98/0	Snagit Printer Name	اسم طابعة Snagit		
-0006426A/100/0	&Snagit printer name:	&اسم طابعة Snagit:	S	S
-0006426A/102/0	OK	موافق		
+0006426A/74/0	&Allow Snagit to override other hotkey assignments	&Allow Snagit to override other hotkey assignments	A	A
+0006426A/75/0	Restore &Defaults	Restore &Defaults	D	D
+0006426A/76/0	General	General		
+0006426A/78/0	&Run Snagit when Windows starts	&Run Snagit when Windows starts	R	R
+0006426A/80/0	Capture &Window	Capture &Window	W	W
+0006426A/81/0	Capture Window && &Widget	Capture Window && &Widget	W	W
+0006426A/83/0	Color &theme:	Color &theme:	T	T
+0006426A/85/0	&Automatically check for updates	&Automatically check for updates	A	A
+0006426A/86/0	&Prompt before update check	&Prompt before update check	P	P
+0006426A/87/0	&Days between check:	&Days between check:	D	D
+0006426A/89/0	Data, privacy && notifications - see Snagit Editor Preferences	Data, privacy && notifications - see Snagit Editor Preferences		
+0006426A/91/0	Printer Capture Preferences	Printer Capture Preferences		
+0006426A/94/0	&Temporary capture file directory	&Temporary capture file directory	T	T
+0006426A/96/0	Select capture file directory	Select capture file directory		
+0006426A/97/0	&Close Snagit after capture (if Snagit was not running)	&Close Snagit after capture (if Snagit was not running)	C	C
+0006426A/98/0	Snagit Printer Name	Snagit Printer Name		
+0006426A/100/0	&Snagit printer name:	&Snagit printer name:	S	S
+0006426A/102/0	OK	OK		
 0006426A/103/0	Cancel	إلغاء الأمر		
 0006426A/104/0	Snagit	Snagit		
-0006426A/108/0	&Do not show this again	&عدم إظهار هذا مرة أخرى	D	D
-0006426A/109/0	&Yes	&نعم	Y	Y
-0006426A/110/0	&No	&لا	N	N
-0006426A/111/0	Snagit Caption	تسمية Snagit التوضيحية		
-0006426A/114/0	OK	موافق		
+0006426A/108/0	&Do not show this again	&Do not show this again	D	D
+0006426A/109/0	&Yes	&Yes	Y	Y
+0006426A/110/0	&No	&No	N	N
+0006426A/111/0	Snagit Caption	Snagit Caption		
+0006426A/114/0	OK	OK		
 0006426A/115/0	Cancel	إلغاء الأمر		
-0006426A/116/0	Capture	التقاط		
-0006426A/118/0	&Hide Snagit during capture and remove Snagit controls from completed captures	&إخفاء Snagit أثناء الالتقاط وإزالة عناصر تحكم Snagit من عمليات الالتقاط المكتملة	H	H
-0006426A/119/0	&Open screenshots copied from system tools	&فتح لقطات الشاشة المنسوخة من أدوات النظام	O	O
-0006426A/120/0	Show ma&gnifier	إظهار ال&مكبّر	G	G
-0006426A/121/0	Simplified &crosshairs	شعيرات تصويب &مبسطة	C	C
-0006426A/122/0	Require Start &button for scrolling capture	يتطلب زر &بدء للالتقاط بالتمرير	B	B
-0006426A/123/0	Show alert when microphone is muted	إظهار تنبيهًا عند كتم صوت الميكروفون		
-0006426A/124/0	S&upport HDR color settings	&دعم إعدادات ألوان HDR	U	U
-0006426A/125/0	Video Recording	تسجيل الفيديو		
-0006426A/126/0	&Automatically start video recording	&بدء تسجيل الفيديو تلقائيًا	A	A
-0006426A/127/0	Show &video countdown	إظهار &العد التنازلي للفيديو	V	V
-0006426A/128/0	Show Ready to Record window	إظهار نافذة الاستعداد للتسجيل		
-0006426A/129/0	&Minimize controls when recording fullscreen with one monitor	&تصغير عناصر التحكم عند التسجيل بملء الشاشة على شاشة واحدة	M	M
-0006426A/130/0	&Scale captures down to 1920 x 1080 (recommended)	&تصغير حجم اللقطات إلى 1920 × 1080 (موصى به)	S	S
-0006426A/131/0	&Enable camera	&تمكين الكاميرا	E	E
-0006426A/132/0	&Disable hardware accelerated recording	&تعطيل التسجيل المسرّع بواسطة العتاد	D	D
-0006426A/133/0	Vi&deo Quality:	جودة ال&فيديو:	D	D
-0006426A/135/0	P&rinter Capture Settings...	&إعدادات طابعة الالتقاط...	R	R
-0006426A/136/0	Snagit Printers	طابعات Snagit		
-0006426A/138/0	&Snagit printer:	&طابعة Snagit:	S	S
-0006426A/140/0	&Properties...	&خصائص...	P	P
-0006426A/141/0	&Add a Snagit Printer...	&إضافة طابعة Snagit...	A	A
+0006426A/116/0	Capture	Capture		
+0006426A/118/0	&Hide Snagit during capture and remove Snagit controls from completed captures	&Hide Snagit during capture and remove Snagit controls from completed captures	H	H
+0006426A/119/0	&Open screenshots copied from system tools	&Open screenshots copied from system tools	O	O
+0006426A/120/0	Show ma&gnifier	Show ma&gnifier	G	G
+0006426A/121/0	Simplified &crosshairs	Simplified &crosshairs	C	C
+0006426A/122/0	Require Start &button for scrolling capture	Require Start &button for scrolling capture	B	B
+0006426A/123/0	Show alert when microphone is muted	Show alert when microphone is muted		
+0006426A/124/0	S&upport HDR color settings	S&upport HDR color settings	U	U
+0006426A/125/0	Video Recording	Video Recording		
+0006426A/126/0	&Automatically start video recording	&Automatically start video recording	A	A
+0006426A/127/0	Show &video countdown	Show &video countdown	V	V
+0006426A/128/0	Show Ready to Record window	Show Ready to Record window		
+0006426A/129/0	&Minimize controls when recording fullscreen with one monitor	&Minimize controls when recording fullscreen with one monitor	M	M
+0006426A/130/0	&Scale captures down to 1920 x 1080 (recommended)	&Scale captures down to 1920 x 1080 (recommended)	S	S
+0006426A/131/0	&Enable camera	&Enable camera	E	E
+0006426A/132/0	&Disable hardware accelerated recording	&Disable hardware accelerated recording	D	D
+0006426A/133/0	Vi&deo Quality:	Vi&deo Quality:	D	D
+0006426A/135/0	P&rinter Capture Settings...	P&rinter Capture Settings...	R	R
+0006426A/136/0	Snagit Printers	Snagit Printers		
+0006426A/138/0	&Snagit printer:	&Snagit printer:	S	S
+0006426A/140/0	&Properties...	&Properties...	P	P
+0006426A/141/0	&Add a Snagit Printer...	&Add a Snagit Printer...	A	A
+0006426A/142/0	You can create multiple Snagit printers and set different properties for each printer.  Then choose a particular Snagit printer when printing from your application.	You can create multiple Snagit printers and set different properties for each printer.  Then choose a particular Snagit printer when printing from your application.		
+0006426A/145/0	ImportExport Progress	ImportExport Progress		
+0006426A/147/0	Importing group 0 of 0:	Importing group 0 of 0:		
+0006426A/149/0	Importing preset 0 of 0:	Importing preset 0 of 0:		
+0006426A/151/0	Snagit printer spooler	Snagit printer spooler		
+0006426A/153/0	Snagit is spooling your print job. Please wait.\n\nNote: Closing this window will not cancel this print job.	Snagit is spooling your print job. Please wait.\n\nNote: Closing this window will not cancel this print job.		
+0006426A/154/0	Snagit	Snagit		
+0006426A/157/0	OK	OK		
+0006426A/158/0	&Yes	&Yes	Y	Y
+0006426A/159/0	&No	&No	N	N
+0006426A/160/0	Help	مساعدة		
+0006426A/162/0	For additional help, see this support article.	For additional help, see this support article.		
+0006426A/163/0	@PRODUCT@ Evaluation	@PRODUCT@ Evaluation		
+0006426A/165/0	Thank you for using @PRODUCT@.	Thank you for using @PRODUCT@.		
+0006426A/166/0	If you have already purchased @PRODUCT@, please enter the software key you received now.	If you have already purchased @PRODUCT@, please enter the software key you received now.		
+0006426A/168/0	0	0		
+0006426A/170/0	30	30		
+0006426A/171/0	Progress1	Progress1		
+0006426A/172/0	I would like to &evaluate @PRODUCT@	I would like to &evaluate @PRODUCT@	E	E
+0006426A/173/0	I would like to &purchase @PRODUCT@ now	I would like to &purchase @PRODUCT@ now	P	P
+0006426A/174/0	I have a &software key:	I have a &software key:	S	S
+0006426A/175/0	&Name:	&Name:	N	N
+0006426A/177/0	&Key:	&Key:	K	K
+0006426A/179/0	URL	URL		
+0006426A/180/0	Evaluation URL for survey	Evaluation URL for survey		
+0006426A/181/0	Purchase @PRODUCT@	Purchase @PRODUCT@		
+0006426A/183/0	You have decided to purchase @PRODUCT@ online through our Web site.  Please click on the order button and follow the instructions to make your purchase.	You have decided to purchase @PRODUCT@ online through our Web site.  Please click on the order button and follow the instructions to make your purchase.		
+0006426A/184/0	&Order Now...	&Order Now...	O	O
+0006426A/185/0	After you have completed the transaction, a Software Key will be e-mailed to you.  Enter it in the field below.	After you have completed the transaction, a Software Key will be e-mailed to you.  Enter it in the field below.		
+0006426A/186/0	I will enter it &later, after I have received it	I will enter it &later, after I have received it	L	L
+0006426A/187/0	I have the Software &Key:	I have the Software &Key:	K	K
+0006426A/188/0	&Name:	&Name:	N	N
+0006426A/190/0	&Key:	&Key:	K	K
+0006426A/192/0	URL	URL		
+0006426A/193/0	Purchase @PRODUCT@	Purchase @PRODUCT@		
+0006426A/195/0	Thank you for choosing to purchase @PRODUCT@.	Thank you for choosing to purchase @PRODUCT@.		
+0006426A/196/0	Benefits include:	Benefits include:		
+0006426A/197/0	* Benefits	* Benefits		
+0006426A/198/0	Licenses	Licenses		
+0006426A/199/0	$prices	$prices		
+0006426A/200/0	NOTE: Prices are subject to change without notice.\n\nIf you have Internet access, you may purchase immediately with a quick transaction through our Web site.	NOTE: Prices are subject to change without notice.\n\nIf you have Internet access, you may purchase immediately with a quick transaction through our Web site.		
+0006426A/201/0	I want to purchase &online	I want to purchase &online	O	O
+0006426A/202/0	I want to purchase via &phone	I want to purchase via &phone	P	P
+0006426A/203/0	URL	URL		
+0006426A/204/0	Purchase @PRODUCT@	Purchase @PRODUCT@		
+0006426A/206/0	<dynamically set>	<dynamically set>		
+0006426A/207/0	Sales URL	Sales URL		
+0006426A/208/0	A Software Key will be sent to you when the order is processed.  Enter it in the field below.	A Software Key will be sent to you when the order is processed.  Enter it in the field below.		
+0006426A/209/0	I will enter it &later, after I have received it	I will enter it &later, after I have received it	L	L
+0006426A/210/0	I have the Software &Key:	I have the Software &Key:	K	K
+0006426A/211/0	&Name:	&Name:	N	N
+0006426A/213/0	&Key:	&Key:	K	K
+0006426A/215/0	URL	URL		
+0006426A/216/0	Upgrade @PRODUCT@	Upgrade @PRODUCT@		
+0006426A/218/0	Thank you for choosing to upgrade @PRODUCT@.	Thank you for choosing to upgrade @PRODUCT@.		
+0006426A/219/0	Benefits include:	Benefits include:		
+0006426A/220/0	* Benefits	* Benefits		
+0006426A/221/0	Licenses	Licenses		
+0006426A/222/0	$prices	$prices		
+0006426A/223/0	NOTE: Prices are subject to change without notice.	NOTE: Prices are subject to change without notice.		
+0006426A/224/0	Current Software Key information:	Current Software Key information:		
+0006426A/226/0	Currently, you can only purchase the upgrade by contacting TechSmith via e-mail or phone.	Currently, you can only purchase the upgrade by contacting TechSmith via e-mail or phone.		
+0006426A/227/0	URL	URL		
+0006426A/228/0	Enter Software Key	Enter Software Key		
+0006426A/230/0	OK	OK		
+0006426A/231/0	Cancel	إلغاء الأمر		
+0006426A/232/0	&Name:	&Name:	N	N
+0006426A/234/0	&Key:	&Key:	K	K
+0006426A/236/0	Tip	Tip		
+0006426A/238/0	Tip Text	Tip Text		
+0006426A/239/0	Show this tip again	Show this tip again		
+0006426A/240/0	<< &Back	<< &Back	B	B
+0006426A/241/0	&Next >>	&Next >>	N	N
+0006426A/242/0	&Close	&Close	C	C
+0006426A/245/0	Cancel	إلغاء الأمر		
+0006426A/246/0	Commands	Commands		
+0006426A/248/0	Cate&gories:	Cate&gories:	G	G
+0006426A/250/0	Comman&ds:	Comman&ds:	D	D
+0006426A/252/0	Description:	Description:		
+0006426A/253/0	<descr>	<descr>		
+0006426A/254/0	Toolbars	Toolbars		
+0006426A/256/0	&Toolbars:	&Toolbars:	T	T
+0006426A/258/0	&Reset	&Reset	R	R
+0006426A/259/0	Reset &All	Reset &All	A	A
+0006426A/260/0	&New...	&New...	N	N
+0006426A/261/0	Rena&me...	Rena&me...	M	M
+0006426A/262/0	&Delete	&حذف	D	?
+0006426A/263/0	&Show text labels	&Show text labels	S	S
+0006426A/264/0	Toolbar Name	Toolbar Name		
+0006426A/266/0	&Toolbar Name:	&Toolbar Name:	T	T
+0006426A/268/0	OK	OK		
+0006426A/269/0	Cancel	إلغاء الأمر		
+0006426A/270/0	Button Appearance	Button Appearance		
+0006426A/272/0	&Image only	&Image only	I	I
+0006426A/273/0	&Text only	&Text only	T	T
+0006426A/274/0	Image &and text	Image &and text	A	A
+0006426A/275/0	Description:	Description:		
+0006426A/276/0	<descr>	<descr>		
+0006426A/277/0	&Button text:	&Button text:	B	B
+0006426A/280/0	Use &Default Image: 	Use &Default Image: 	D	D
+0006426A/281/0	Select &User-defined Image: 	Select &User-defined Image: 	U	U
+0006426A/282/0	Images	Images		
+0006426A/284/0	&New...	&New...	N	N
+0006426A/285/0	&Edit...	&Edit...	E	E
+0006426A/286/0	OK	OK		
+0006426A/287/0	Cancel	إلغاء الأمر		
+0006426A/288/0	Edit Button Image	Edit Button Image		
+0006426A/290/0	Picture:	Picture:		
+0006426A/291/0	Draw	Draw		
+0006426A/292/0	Colors:	Colors:		
+0006426A/293/0	Preview: 	Preview: 		
+0006426A/295/0	Tools:	Tools:		
+0006426A/298/0	OK	OK		
+0006426A/299/0	Cancel	إلغاء الأمر		
+0006426A/301/0	Menu	Menu		
+0006426A/303/0	&Show Menus for:	&Show Menus for:	S	S
+0006426A/306/0	<.....>	<.....>		
+0006426A/307/0	Select &context menu:	Select &context menu:	C	C
+0006426A/309/0	R&eset	R&eset	E	E
+0006426A/310/0	Application Frame Menus: 	Application Frame Menus: 		
+0006426A/311/0	Context Menus: 	Context Menus: 		
+0006426A/312/0	Hint: select the context menu, change the page to "Commands" and drag the toolbar buttons into the menu window.	Hint: select the context menu, change the page to "Commands" and drag the toolbar buttons into the menu window.		
+0006426A/313/0	&Reset	&Reset	R	R
+0006426A/314/0	&Menu animations:	&Menu animations:	M	M
+0006426A/316/0	Menu s&hadows	Menu s&hadows	H	H
+0006426A/317/0	Mouse	Mouse		
+0006426A/319/0	&View:	&View:	V	V
+0006426A/320/0	List1	List1		
+0006426A/322/0	&No double-click event	&No double-click event	N	N
+0006426A/323/0	&Associate double-click event with:	&Associate double-click event with:	A	A
+0006426A/325/0	Static	Static		
+0006426A/326/0	Keyboard	Keyboard		
+0006426A/328/0	&Category:	&Category:	C	C
+0006426A/330/0	C&ommands:	C&ommands:	O	O
+0006426A/332/0	Description:	Description:		
+0006426A/333/0	Static	Static		
+0006426A/334/0	Set Accelerator &for:	Set Accelerator &for:	F	F
+0006426A/336/0	C&urrent Keys:	C&urrent Keys:	U	U
+0006426A/338/0	Press &New Shortcut Key:	Press &New Shortcut Key:	N	N
+0006426A/340/0	&Assign	&Assign	A	A
+0006426A/341/0	&Remove	&Remove	R	R
+0006426A/342/0	Re&set All	Re&set All	S	S
+0006426A/344/0	Assigned to:	Assigned to:		
+0006426A/345/0	.....	.....		
+0006426A/346/0	Options	Options		
+0006426A/348/0	Toolbar	Toolbar		
+0006426A/350/0	Show Screen&Tips on toolbars	Show Screen&Tips on toolbars	T	T
+0006426A/351/0	Show shortcut &keys in ScreenTips	Show shortcut &keys in ScreenTips	K	K
+0006426A/352/0	&Large Icons	&Large Icons	L	L
+0006426A/353/0	Look &2000	Look &2000	2	2
+0006426A/354/0	&Visualizations...	&Visualizations...	V	V
+0006426A/355/0	Personalized Menus and Toolbars	Personalized Menus and Toolbars		
+0006426A/357/0	Me&nus show recently used commands first	Me&nus show recently used commands first	N	N
+0006426A/358/0	Show f&ull menus after a short delay	Show f&ull menus after a short delay	U	U
+0006426A/359/0	&Reset my usage data	&Reset my usage data	R	R
+0006426A/362/0	dummy	dummy		
+0006426A/363/0	Windows	Windows		
+0006426A/366/0	&Activate	&Activate	A	A
+0006426A/367/0	&OK	&OK	O	O
+0006426A/368/0	&Save	&Save	S	S
+0006426A/369/0	&Close Window(s)	&Close Window(s)	C	C
+0006426A/370/0	Cascade	Cascade		
+0006426A/371/0	Tile &Horizontally	Tile &Horizontally	H	H
+0006426A/372/0	Tile &Vertically	Tile &Vertically	V	V
+0006426A/373/0	&Minimize	&Minimize	M	M
+0006426A/374/0	Select &window:	Select &window:	W	W
+0006426A/375/0	&Help	&مساعدة	H	?
+0006426A/376/0	Tools	Tools		
+0006426A/378/0	&Menu contents:	&Menu contents:	M	M
+0006426A/379/0	&Command:	&Command:	C	C
+0006426A/381/0	&...	&...	.	.
+0006426A/382/0	&Arguments:	&Arguments:	A	A
+0006426A/385/0	&Initial directory:	&Initial directory:	I	I
+0006426A/388/0	Colors	Colors		
+0006426A/390/0	Tab Placeholder	Tab Placeholder		
+0006426A/391/0	OK	OK		
+0006426A/392/0	Cancel	إلغاء الأمر		
+0006426A/393/0	S&elect...	S&elect...	E	E
+0006426A/394/0	New	New		
+0006426A/395/0	Color	Color		
+0006426A/396/0	Current	Current		
+0006426A/397/0	Standard	Standard		
+0006426A/399/0	Colors:	Colors:		
+0006426A/400/0	Hex	Hex		
+0006426A/401/0	Gray	Gray		
+0006426A/402/0	Custom	Custom		
+0006426A/404/0	H&ue:	H&ue:	U	U
+0006426A/406/0	Spin1	Spin1		
+0006426A/407/0	&Sat:	&Sat:	S	S
+0006426A/409/0	Spin1	Spin1		
+0006426A/410/0	&Lum:	&Lum:	L	L
+0006426A/412/0	Spin1	Spin1		
+0006426A/413/0	&Red:	&Red:	R	R
+0006426A/415/0	Spin1	Spin1		
+0006426A/416/0	&Green:	&Green:	G	G
+0006426A/418/0	Spin1	Spin1		
+0006426A/419/0	&Blue:	&Blue:	B	B
+0006426A/421/0	Spin1	Spin1		
+0006426A/422/0	Colors:	Colors:		
+0006426A/423/0	Color	Color		
+0006426A/424/0	Lum	Lum		
+0006426A/425/0	Help Keyboard	Help Keyboard		
+0006426A/427/0	List1	List1		
+0006426A/428/0	Print	Print		
+0006426A/429/0	Copy	Copy		
+0006426A/430/0	&Category:	&Category:	C	C
+0006426A/432/0	Show &Accelerator for:	Show &Accelerator for:	A	A
+0006426A/435/0	Visualizations	Visualizations		
+0006426A/437/0	&Available Visualizations:	&Available Visualizations:	A	A
+0006426A/439/0	Created by:	Created by:		
+0006426A/441/0	Mail	Mail		
+0006426A/442/0	URL	URL		
+0006426A/443/0	&Download...	&Download...	D	D
+0006426A/444/0	OK	OK		
+0006426A/445/0	Cancel	إلغاء الأمر		
+0006426A/446/0	Apply	Apply		
+0006426A/449/0	Navigation Pane Options	Navigation Pane Options		
+0006426A/451/0	Display &buttons in this order	Display &buttons in this order	B	B
+0006426A/453/0	Move &Up	Move &Up	U	U
+0006426A/454/0	Move &Down	Move &Down	D	D
+0006426A/455/0	&Reset	&Reset	R	R
+0006426A/456/0	OK	OK		
+0006426A/457/0	Cancel	إلغاء الأمر		
+0006426A/461/0	About...	About...		
+0006426A/463/0	Purchase	Purchase		
+0006426A/464/0	OK	OK		
+0006426A/466/0	<Program Name>	<Program Name>		
+0006426A/467/0	BCGControlBar Pro version	BCGControlBar Pro version		
+0006426A/468/0	00.00	00.00		
+0006426A/469/0	Copyright ©	Copyright ©		
+0006426A/470/0	0000-0000	0000-0000		
+0006426A/471/0	BCGSoft Co Ltd. All rights reserved	BCGSoft Co Ltd. All rights reserved		
+0006426A/472/0	Web site:	Web site:		
+0006426A/473/0	http://www.bcgsoft.com	http://www.bcgsoft.com		
+0006426A/474/0	E-mail:	E-mail:		
+0006426A/475/0	info@bcgsoft.com	info@bcgsoft.com		
+0006426A/477/0	Customize	Customize		
+0006426A/479/0	&Choose commands from:	&Choose commands from:	C	C
+0006426A/481/0	C&ommands:	C&ommands:	O	O
+0006426A/483/0	&Add > >	&Add > >	A	A
+0006426A/484/0	< < &Remove	< < &Remove	R	R
+0006426A/486/0	Re&set	Re&set	S	S
+0006426A/489/0	S&how Quick Access Toolbar below the Ribbon	S&how Quick Access Toolbar below the Ribbon	H	H
+0006426A/490/0	Cus&tomize...	Cus&tomize...	T	T
+0006426A/491/0	Keyboard shortcuts:	Keyboard shortcuts:		
+0006426A/492/0	Customize Keyboard	Customize Keyboard		
+0006426A/494/0	&Categories	&Categories	C	C
+0006426A/496/0	C&ommands	C&ommands	O	O
+0006426A/498/0	C&urrent Keys	C&urrent Keys	U	U
+0006426A/500/0	Press &new shortcut key	Press &new shortcut key	N	N
+0006426A/502/0	Assigned to:	Assigned to:		
+0006426A/503/0	.....	.....		
+0006426A/505/0	Static	Static		
+0006426A/506/0	&Assign	&Assign	A	A
+0006426A/507/0	&Remove	&Remove	R	R
+0006426A/508/0	Re&set All	Re&set All	S	S
+0006426A/509/0	Close	Close		
+0006426A/513/0	Message\nMessage	Message\nMessage		
+0006426A/514/0	Progress1	Progress1		
+0006426A/515/0	100 %	100 %		
+0006426A/516/0	Message 2\nMessage 2	Message 2\nMessage 2		
+0006426A/518/0	Cancel	إلغاء الأمر		
+0006426A/521/0	&Print	&Print	P	P
+0006426A/522/0	Print	Print		
+0006426A/524/0	Copies:	Copies:		
+0006426A/526/0	Spin1	Spin1		
+0006426A/527/0	Printer	Printer		
+0006426A/529/0	Printers	Printers		
+0006426A/530/0	Printer Properties	Printer Properties		
+0006426A/531/0	Settings	Settings		
+0006426A/533/0	Pages	Pages		
+0006426A/534/0	From:	From:		
+0006426A/536/0	To:	To:		
+0006426A/538/0	Collate	Collate		
+0006426A/539/0	Orientation	Orientation		
+0006426A/540/0	Papers	Papers		
+0006426A/543/0	<	<		
+0006426A/544/0	Page 000	Page 000		
+0006426A/545/0	>	>		
+0006426A/546/0	000 %	000 %		
+0006426A/547/0	Slider1	Slider1		
+0006426A/548/0	Edit Brush	Edit Brush		
+0006426A/550/0	&Type:	&Type:	T	T
+0006426A/552/0	&Color:	&Color:	C	C
+0006426A/553/0	Color1	Color1		
+0006426A/554/0	&Gradient Color:	&Gradient Color:	G	G
+0006426A/555/0	Color2	Color2		
+0006426A/556/0	&Opacity:	&Opacity:	O	O
+0006426A/557/0	Slider1	Slider1		
+0006426A/559/0	OK	OK		
+0006426A/560/0	Cancel	إلغاء الأمر		
+0006426A/562/0	&Swap	&Swap	S	S
+0006426A/565/0	Recent Documents	Recent Documents		
+0006426A/568/0	Recent Places	Recent Places		
+0006426A/572/0	Text Format	Text Format		
+0006426A/574/0	&Family:	&Family:	F	F
+0006426A/576/0	&Locale:	&Locale:	L	L
+0006426A/578/0	&Size:	&Size:	S	S
+0006426A/580/0	S&tyle:	S&tyle:	T	T
+0006426A/582/0	&Weight:	&Weight:	W	W
+0006426A/584/0	Wo&rd Wrapping	Wo&rd Wrapping	R	R
+0006426A/585/0	&Clip Text	&Clip Text	C	C
+0006426A/586/0	&Horizontal Alignment:	&Horizontal Alignment:	H	H
+0006426A/588/0	&Vertical Alignment:	&Vertical Alignment:	V	V
+0006426A/590/0	&Drawing Angle:	&Drawing Angle:	D	D
+0006426A/592/0	&Underline	&Underline	U	U
+0006426A/593/0	Strik&ethrough	Strik&ethrough	E	E
+0006426A/594/0	OK	OK		
+0006426A/595/0	Cancel	إلغاء الأمر		
+0006426A/598/0	Customize Ribbon	Customize Ribbon		
+0006426A/600/0	&Choose commands from:	&Choose commands from:	C	C
+0006426A/603/0	Keyboard shortcuts:	Keyboard shortcuts:		
+0006426A/604/0	Cus&tomize...	Cus&tomize...	T	T
+0006426A/605/0	&Add > >	&Add > >	A	A
+0006426A/606/0	< < &Remove	< < &Remove	R	R
+0006426A/607/0	Customize the Ri&bbon:	Customize the Ri&bbon:	B	B
+0006426A/609/0	Ne&w Tab	Ne&w Tab	W	W
+0006426A/610/0	&New Group	&New Group	N	N
+0006426A/611/0	Rena&me...	Rena&me...	M	M
+0006426A/612/0	Customizations:	Customizations:		
+0006426A/613/0	Re&set	Re&set	S	S
+0006426A/617/0	Rename	Rename		
+0006426A/619/0	&Display Name:	&Display Name:	D	D
+0006426A/621/0	OK	OK		
+0006426A/622/0	Cancel	إلغاء الأمر		
+0006426A/623/0	Rename	Rename		
+0006426A/625/0	Symbol:	Symbol:		
+0006426A/626/0	Images	Images		
+0006426A/627/0	&Display Name:	&Display Name:	D	D
+0006426A/629/0	OK	OK		
+0006426A/630/0	Cancel	إلغاء الأمر		
+0006426A/635/0	OK	OK		
+0006426A/636/0	Cancel	إلغاء الأمر		
+0006426A/637/0	<Message Box>	<Message Box>		
+0006426A/639/0	PDF Page Setup	PDF Page Setup		
+0006426A/654/0	&Portrait	&Portrait	P	P
+0006426A/655/0	Lan&dscape	Lan&dscape	D	D
+0006426A/656/0	&Fit on page (shrink)	&Fit on page (shrink)	F	F
+0006426A/657/0	&Allow to span multiple pages	&Allow to span multiple pages	A	A
+0006426A/658/0	OK	OK		
+0006426A/659/0	Cancel	إلغاء الأمر		
+0006426A/660/0	Default	Default		
+0006426A/661/0	Preview Window	Preview Window		
+0006426A/662/0	General	General		
+0006426A/663/0	Margins	Margins		
+0006426A/664/0	Orientation	Orientation		
+0006426A/665/0	Image layout	Image layout		
+0006426A/666/0	Preview	Preview		
+0006426A/667/0	Page %d of %d	Page %d of %d		
+0006426A/668/0	&Top:	&Top:	T	T
+0006426A/669/0	&Bottom:	&Bottom:	B	B
+0006426A/670/0	&Left:	&Left:	L	L
+0006426A/671/0	&Right:	&Right:	R	R
+0006426A/672/0	&Page size:	&Page size:	P	P
+0006426A/673/0	&Height:	&Height:	H	H
+0006426A/674/0	&Width:	&Width:	W	W
+0006426A/675/0	File Format	File Format		
+0006426A/678/0	&Colors:	&Colors:	C	C
+0006426A/679/0	Title:	Title:		
+0006426A/682/0	&Quality:	&Quality:	Q	Q
+0006426A/684/0	S&ubfile type:	S&ubfile type:	U	U
+0006426A/689/0	&Progressive save options:	&Progressive save options:	P	P
+0006426A/690/0	&Transparency	&Transparency	T	T
+0006426A/692/0	&PDF Page Setup...	&PDF Page Setup...	P	P
+0006426A/693/0	&Default	&Default	D	D
+0006426A/694/0	OK	OK		
+0006426A/695/0	Cancel	إلغاء الأمر		
+0006426A/696/0	&Multipage	&Multipage	M	M
+0006426A/697/0	Author:	Author:		
+0006426A/698/0	Tags:	Tags:		
+0006426A/699/0	There are no available file options.	There are no available file options.		
+0006426A/707/0	Monochrome	Monochrome		
+0006426A/708/0	&Intensity threshold for white:	&Intensity threshold for white:	I	I
+0006426A/709/0	Slider1	Slider1		
+0006426A/712/0	%	%		
+0006426A/713/0	Save As Options	Save As Options		
+0006426A/715/0	File format	File format		
+0006426A/716/0	&Remember last used format	&Remember last used format	R	R
+0006426A/717/0	Always &use this file format:	Always &use this file format:	U	U
+0006426A/719/0	&Options...	&Options...	O	O
+0006426A/720/0	Show advanced &types	Show advanced &types	T	T
+0006426A/723/0	Colors	Colors		
+0006426A/724/0	&Color substitutions	&Color substitutions	C	C
+0006426A/726/0	&Add	&Add	A	A
+0006426A/727/0	&Delete	&حذف	D	?
+0006426A/728/0	Details	Details		
+0006426A/729/0	&Old color:	&Old color:	O	O
+0006426A/730/0	Select Old Color	Select Old Color		
+0006426A/731/0	Select old color with eye dropper tool	Select old color with eye dropper tool		
+0006426A/732/0	&New color:	&New color:	N	N
+0006426A/733/0	Select New Color	Select New Color		
+0006426A/734/0	Select new color with eye dropper tool	Select new color with eye dropper tool		
+0006426A/735/0	Color accurac&y:	Color accurac&y:	Y	Y
+0006426A/737/0	Spin1	Spin1		
+0006426A/738/0	&Swap colors	&Swap colors	S	S
+0006426A/739/0	%	%		
+0006426A/740/0	FTP	FTP		
+0006426A/742/0	Server settings	Server settings		
+0006426A/743/0	FTP serve&r:	FTP serve&r:	R	R
+0006426A/745/0	P&ort:	P&ort:	O	O
+0006426A/747/0	Remote &path:	Remote &path:	P	P
+0006426A/749/0	Us&e passive FTP	Us&e passive FTP	E	E
+0006426A/750/0	Show pro&gress	Show pro&gress	G	G
+0006426A/751/0	Remote file	Remote file		
+0006426A/752/0	F&ixed file name	F&ixed file name	I	I
+0006426A/753/0	&Automatic file name	&Automatic file name	A	A
+0006426A/754/0	&Sequence limit:	&Sequence limit:	S	S
+0006426A/756/0	&File name or prefix:	&File name or prefix:	F	F
+0006426A/758/0	Use &temp / rename replacement method	Use &temp / rename replacement method	T	T
+0006426A/760/0	Server aut&hentication	Server aut&hentication	H	H
+0006426A/761/0	User &name:	User &name:	N	N
+0006426A/763/0	Pass&word:	Pass&word:	W	W
+0006426A/766/0	Use pro&xy server	Use pro&xy server	X	X
+0006426A/767/0	Proxy ser&ver and port:	Proxy ser&ver and port:	V	V
+0006426A/769/0	FTP Progress	FTP Progress		
+0006426A/771/0	Cancel	إلغاء الأمر		
+0006426A/774/0	Save Multiple Images	Save Multiple Images		
+0006426A/776/0	&Folder:	&Folder:	F	F
+0006426A/778/0	Select folder	Select folder		
+0006426A/779/0	File &name prefix:	File &name prefix:	N	N
+0006426A/781/0	&Number of digits in index:	&Number of digits in index:	N	N
+0006426A/783/0	&Save images as type:	&Save images as type:	S	S
+0006426A/785/0	Images will be saved to:	Images will be saved to:		
+0006426A/787/0	OK	OK		
+0006426A/788/0	Cancel	إلغاء الأمر		
+0006426A/789/0	&Options...	&Options...	O	O
+0006426A/790/0	&Help	&مساعدة	H	?
+0006426A/793/0	&Enable border	&Enable border	E	E
+0006426A/794/0	Border settings	Border settings		
+0006426A/795/0	&Place border outside of image	&Place border outside of image	P	P
+0006426A/796/0	3&D effect	3&D effect	D	D
+0006426A/797/0	&Total width:	&Total width:	T	T
+0006426A/800/0	&Shadow width:	&Shadow width:	S	S
+0006426A/803/0	&Main color:	&Main color:	M	M
+0006426A/804/0	Main Color...	Main Color...		
+0006426A/805/0	H&ighlight color:	H&ighlight color:	I	I
+0006426A/806/0	Highlight Color...	Highlight Color...		
+0006426A/807/0	Sh&adow color:	Sh&adow color:	A	A
+0006426A/808/0	Shadow Color...	Shadow Color...		
+0006426A/809/0	pixels	pixels		
+0006426A/810/0	pixels	pixels		
+0006426A/811/0	Filter Preview	Filter Preview		
+0006426A/813/0	OK	OK		
+0006426A/814/0	Cancel	إلغاء الأمر		
+0006426A/818/0	Trim Settings	Trim Settings		
+0006426A/819/0	&None	&None	N	N
+0006426A/820/0	&Automatic	&Automatic	A	A
+0006426A/821/0	&Custom	&Custom	C	C
+0006426A/822/0	Automatically detects and trims areas of solid color around the edges of the image.	Automatically detects and trims areas of solid color around the edges of the image.		
+0006426A/823/0	&Top:	&Top:	T	T
+0006426A/826/0	pixels	pixels		
+0006426A/827/0	&Bottom:	&Bottom:	B	B
+0006426A/830/0	pixels	pixels		
+0006426A/831/0	&Left:	&Left:	L	L
+0006426A/834/0	pixels	pixels		
+0006426A/835/0	&Right:	&Right:	R	R
+0006426A/838/0	pixels	pixels		
+0006426A/841/0	&Enable watermark	&Enable watermark	E	E
+0006426A/842/0	Watermark	Watermark		
+0006426A/843/0	&File:	&File:	F	F
+0006426A/845/0	Browse...	Browse...		
+0006426A/846/0	Display effect	Display effect		
+0006426A/847/0	&Underlay	&Underlay	U	U
+0006426A/848/0	&Overlay	&Overlay	O	O
+0006426A/849/0	&Advanced settings	&Advanced settings	A	A
+0006426A/852/0	Overlay effects	Overlay effects		
+0006426A/853/0	Use &transparent color	Use &transparent color	T	T
+0006426A/854/0	Transparent &color:	Transparent &color:	C	C
+0006426A/855/0	Transparent Color...	Transparent Color...		
+0006426A/856/0	Position	Position		
+0006426A/857/0	&Horizontal offset:	&Horizontal offset:	H	H
+0006426A/861/0	%	%		
+0006426A/862/0	&Vertical offset:	&Vertical offset:	V	V
+0006426A/866/0	%	%		
+0006426A/867/0	Scaling	Scaling		
+0006426A/868/0	&Keep aspect ratio	&Keep aspect ratio	K	K
+0006426A/869/0	&Use smooth scaling	&Use smooth scaling	U	U
+0006426A/870/0	Watermark &size:	Watermark &size:	S	S
+0006426A/874/0	%	%		
+0006426A/875/0	&Return to Select Watermark	&Return to Select Watermark	R	R
+0006426A/878/0	Underlay effects	Underlay effects		
+0006426A/879/0	&Emboss image	&Emboss image	E	E
+0006426A/880/0	&Direction	&Direction	D	D
+0006426A/882/0	De&pth:	De&pth:	P	P
+0006426A/886/0	Position	Position		
+0006426A/887/0	&Horizontal offset:	&Horizontal offset:	H	H
+0006426A/891/0	%	%		
+0006426A/892/0	&Vertical offset:	&Vertical offset:	V	V
+0006426A/896/0	%	%		
+0006426A/897/0	Scaling	Scaling		
+0006426A/898/0	&Keep aspect ratio	&Keep aspect ratio	K	K
+0006426A/899/0	&Use smooth scaling	&Use smooth scaling	U	U
+0006426A/900/0	Watermark &size:	Watermark &size:	S	S
+0006426A/904/0	%	%		
+0006426A/905/0	&Return to Select Watermark	&Return to Select Watermark	R	R
+0006426A/908/0	Brightness and contrast	Brightness and contrast		
+0006426A/909/0	&Brightness:	&Brightness:	B	B
+0006426A/913/0	&Contrast:	&Contrast:	C	C
+0006426A/917/0	Advanced color settings	Advanced color settings		
+0006426A/918/0	&Hue:	&Hue:	H	H
+0006426A/922/0	&Saturation:	&Saturation:	S	S
+0006426A/926/0	&Gamma:	&Gamma:	G	G
+0006426A/930/0	Reset to Defaults	Reset to Defaults		
+0006426A/933/0	Style	Style		
+0006426A/934/0	&Effect size	&Effect size	E	E
+0006426A/938/0	&Apply to:	&Apply to:	A	A
+0006426A/940/0	Top	Top		
+0006426A/941/0	Left	Left		
+0006426A/942/0	Right	Right		
+0006426A/943/0	Bottom	Bottom		
+0006426A/944/0	&Canvas color:	&Canvas color:	C	C
+0006426A/946/0	Shadow	Shadow		
+0006426A/947/0	&Shadow depth (pixels):	&Shadow depth (pixels):	S	S
+0006426A/951/0	S&hadow color:	S&hadow color:	H	H
+0006426A/952/0	Shadow Color...	Shadow Color...		
+0006426A/953/0	&Position:	&Position:	P	P
+0006426A/958/0	Outline	Outline		
+0006426A/959/0	&Outline width (pixels):	&Outline width (pixels):	O	O
+0006426A/963/0	O&utline color:	O&utline color:	U	U
+0006426A/964/0	Outline Color...	Outline Color...		
+0006426A/965/0	Save as &default settings	Save as &default settings	D	D
+0006426A/968/0	Rotation	Rotation		
+0006426A/969/0	&Angle (degrees)	&Angle (degrees)	A	A
+0006426A/973/0	&Resize canvas to fit	&Resize canvas to fit	R	R
+0006426A/974/0	Automatic File Name	Automatic File Name		
+0006426A/976/0	&Format:	&Format:	F	F
+0006426A/978/0	Preview:	Preview:		
+0006426A/980/0	Ask before &overwriting existing file names	Ask before &overwriting existing file names	O	O
+0006426A/981/0	Fi&le name components	Fi&le name components	L	L
+0006426A/983/0	Value:	Value:		
+0006426A/985/0	&Insert	&Insert	I	I
+0006426A/986/0	&Prefix text:	&Prefix text:	P	P
+0006426A/988/0	&Number of digits:	&Number of digits:	N	N
+0006426A/991/0	&Starting number:	&Starting number:	S	S
+0006426A/994/0	OK	OK		
+0006426A/995/0	Cancel	إلغاء الأمر		
+0006426A/996/0	Prefix options	Prefix options		
+0006426A/997/0	Automatic number options	Automatic number options		
+0006426A/1000/0	Scale	Scale		
+0006426A/1001/0	Scale by &percentage	Scale by &percentage	P	P
+0006426A/1002/0	Scale to w&idth	Scale to w&idth	I	I
+0006426A/1003/0	Scale to h&eight	Scale to h&eight	E	E
+0006426A/1004/0	Specific &size	Specific &size	S	S
+0006426A/1005/0	&Width:	&Width:	W	W
+0006426A/1008/0	%	%		
+0006426A/1009/0	&Height:	&Height:	H	H
+0006426A/1012/0	%	%		
+0006426A/1013/0	&Width:	&Width:	W	W
+0006426A/1016/0	pixels	pixels		
+0006426A/1017/0	&Height:	&Height:	H	H
+0006426A/1020/0	pixels	pixels		
+0006426A/1021/0	&Width:	&Width:	W	W
+0006426A/1024/0	pixels	pixels		
+0006426A/1025/0	&Height:	&Height:	H	H
+0006426A/1028/0	pixels	pixels		
+0006426A/1029/0	&Use smooth scaling	&Use smooth scaling	U	U
+0006426A/1030/0	&Keep aspect ratio	&Keep aspect ratio	K	K
+0006426A/1031/0	Media Feature Pack for Windows Required	Media Feature Pack for Windows Required		
+0006426A/1033/0	To use Snagit's video features, you must install the Windows Media Feature Pack.	To use Snagit's video features, you must install the Windows Media Feature Pack.		
+0006426A/1034/0	Please visit Microsoft's website to download the Windows Media Feature Pack.	Please visit Microsoft's website to download the Windows Media Feature Pack.		
+0006426A/1035/0	Warning: Make sure you do not install the Windows Media [Format] Feature Pack by mistake.	Warning: Make sure you do not install the Windows Media [Format] Feature Pack by mistake.		
+0006426A/1037/0	Video features have been disabled	Video features have been disabled		
+0006426A/1039/0	Snagit's video features have been disabled.	Snagit's video features have been disabled.		
+0006426A/1040/0	Please ask your system administrator for more information.	Please ask your system administrator for more information.		
+0006426A/1043/0	Layout	Layout		
+0006426A/1045/0	Image scale options	Image scale options		
+0006426A/1046/0	&Auto size	&Auto size	A	A
+0006426A/1047/0	Fit on &page (shrink)	Fit on &page (shrink)	P	P
+0006426A/1048/0	&Fill page (stretch)	&Fill page (stretch)	F	F
+0006426A/1049/0	Fill to &width (stretch)	Fill to &width (stretch)	W	W
+0006426A/1050/0	Manual &scale	Manual &scale	S	S
+0006426A/1051/0	Fi&xed size (%1)	Fi&xed size (%1)	X	X
+0006426A/1052/0	Pe&rcent:	Pe&rcent:	R	R
+0006426A/1055/0	Wi&dth:	Wi&dth:	D	D
+0006426A/1058/0	H&eight:	H&eight:	E	E
+0006426A/1061/0	&Keep aspect ratio	&Keep aspect ratio	K	K
+0006426A/1062/0	Rese&t	Rese&t	T	T
+0006426A/1063/0	Image p&osition	Image p&osition	O	O
+0006426A/1064/0	Top Left	Top Left		
+0006426A/1065/0	Top Center	Top Center		
+0006426A/1066/0	Top Right	Top Right		
+0006426A/1067/0	Left	Left		
+0006426A/1068/0	Center	Center		
+0006426A/1069/0	Right	Right		
+0006426A/1070/0	Bottom Left	Bottom Left		
+0006426A/1071/0	Bottom Center	Bottom Center		
+0006426A/1072/0	Bottom Right	Bottom Right		
+0006426A/1073/0	Print file &names at bottom of page	Print file &names at bottom of page	N	N
+0006426A/1074/0	Preview	Preview		
+0006426A/1075/0	Page:	Page:		
+0006426A/1076/0	1	1		
+0006426A/1077/0	Sample &image size:	Sample &image size:	I	I
+0006426A/1079/0	Preview Window	Preview Window		
+0006426A/1080/0	Paper	Paper		
+0006426A/1082/0	Orientation	Orientation		
+0006426A/1083/0	&Portrait	&Portrait	P	P
+0006426A/1084/0	Lan&dscape	Lan&dscape	D	D
+0006426A/1085/0	Margins (%1)	Margins (%1)		
+0006426A/1086/0	&Top:	&Top:	T	T
+0006426A/1089/0	&Bottom:	&Bottom:	B	B
+0006426A/1092/0	&Left:	&Left:	L	L
+0006426A/1095/0	&Right:	&Right:	R	R
+0006426A/1098/0	Preview	Preview		
+0006426A/1099/0	Page:	Page:		
+0006426A/1100/0	1	1		
+0006426A/1101/0	Sample &image size:	Sample &image size:	I	I
+0006426A/1103/0	Preview Window	Preview Window		
+0006426A/1106/0	Progress1	Progress1		
+0006426A/1107/0	Cancel	إلغاء الأمر		
+0006426A/1110/0	Confirm File Replace	Confirm File Replace		
+0006426A/1112/0	The destination folder already contains a file called:	The destination folder already contains a file called:		
+0006426A/1114/0	Would you like to replace the existing file?	Would you like to replace the existing file?		
+0006426A/1115/0	&Yes	&Yes	Y	Y
+0006426A/1116/0	Yes to &All	Yes to &All	A	A
+0006426A/1117/0	&No	&No	N	N
+0006426A/1118/0	Cancel	إلغاء الأمر		
+0006426A/1119/0	Print	Print		
+0006426A/1121/0	R&emember last used settings	R&emember last used settings	E	E
+0006426A/1122/0	&Use these settings	&Use these settings	U	U
+0006426A/1123/0	Select &printer	Select &printer	P	P
+0006426A/1125/0	P&roperties...	P&roperties...	R	R
+0006426A/1126/0	Page &Setup...	Page &Setup...	S	S
+0006426A/1127/0	&Multiple Images Layout...	&Multiple Images Layout...	M	M
+0006426A/1128/0	Print	Print		
+0006426A/1129/0	Cancel	إلغاء الأمر		
+0006426A/1130/0	Multiple Images Layout	Multiple Images Layout		
+0006426A/1132/0	Number of &columns:	Number of &columns:	C	C
+0006426A/1134/0	Spin1	Spin1		
+0006426A/1135/0	Number of &rows:	Number of &rows:	R	R
+0006426A/1137/0	Spin1	Spin1		
+0006426A/1138/0	Margins (%1)	Margins (%1)		
+0006426A/1139/0	&Top:	&Top:	T	T
+0006426A/1141/0	Spin1	Spin1		
+0006426A/1142/0	&Bottom:	&Bottom:	B	B
+0006426A/1144/0	Spin1	Spin1		
+0006426A/1145/0	&Left:	&Left:	L	L
+0006426A/1147/0	Spin1	Spin1		
+0006426A/1148/0	Ri&ght:	Ri&ght:	G	G
+0006426A/1150/0	Spin1	Spin1		
+0006426A/1151/0	&Spacing:	&Spacing:	S	S
+0006426A/1153/0	Spin1	Spin1		
+0006426A/1154/0	Image scale options	Image scale options		
+0006426A/1155/0	&Automatically fit image	&Automatically fit image	A	A
+0006426A/1156/0	&Manual fixed scale:	&Manual fixed scale:	M	M
+0006426A/1157/0	Scal&e:	Scal&e:	E	E
+0006426A/1159/0	Spin1	Spin1		
+0006426A/1160/0	&Keep aspect ratio	&Keep aspect ratio	K	K
+0006426A/1161/0	Print file &names below each image	Print file &names below each image	N	N
+0006426A/1162/0	Preview:	Preview:		
+0006426A/1165/0	OK	OK		
+0006426A/1166/0	Cancel	إلغاء الأمر		
+0006426A/1167/0	&Default	&Default	D	D
+0006426A/1168/0	%	%		
+0006426A/1171/0	Trim Settings	Trim Settings		
+0006426A/1172/0	&Top:	&Top:	T	T
+0006426A/1175/0	pixels	pixels		
+0006426A/1176/0	&Bottom:	&Bottom:	B	B
+0006426A/1179/0	pixels	pixels		
+0006426A/1180/0	&Left:	&Left:	L	L
+0006426A/1183/0	pixels	pixels		
+0006426A/1184/0	&Right:	&Right:	R	R
+0006426A/1187/0	pixels	pixels		
+0006426A/1188/0	Snagit needs to save your AVI video files	Snagit needs to save your AVI video files		
+0006426A/1191/0	This version of Snagit only supports MPEG-4 video files. Unsaved AVI video files in your Library will be saved to the directory below.	This version of Snagit only supports MPEG-4 video files. Unsaved AVI video files in your Library will be saved to the directory below.		
+0006426A/1192/0	Target folder:	Target folder:		
+0006426A/1194/0	Select folder	Select folder		
+0006426A/1196/0	Continue	Continue		
+0006426A/1198/0	Close	Close		
+0006426A/1199/0	Status: Exporting .AVIs	Status: Exporting .AVIs		
+0006426A/1202/0	Snagit needs to save your text files	Snagit needs to save your text files		
+0006426A/1205/0	This version of Snagit does not support text files. Unsaved text files in your Library will be saved to the directory below.	This version of Snagit does not support text files. Unsaved text files in your Library will be saved to the directory below.		
+0006426A/1206/0	Target folder:	Target folder:		
+0006426A/1208/0	Select folder	Select folder		
+0006426A/1210/0	Continue	Continue		
+0006426A/1212/0	Close	Close		
+0006426A/1213/0	Status: Exporting .TXTs	Status: Exporting .TXTs		
+0006426A/1216/0	Technical Support	Technical Support		
+0006426A/1218/0	Please submit your questions, feature suggestions, and problem reports	Please submit your questions, feature suggestions, and problem reports		
+0006426A/1219/0	by visiting the	by visiting the		
+0006426A/1220/0	TechSmith Support Website	TechSmith Support Website		
+0006426A/1221/0	If you report a problem, please include the following diagnostic information as an attachment:	If you report a problem, please include the following diagnostic information as an attachment:		
+0006426A/1222/0	Diagnostic Information	Diagnostic Information		
+0006426A/1224/0	&Copy To Clipboard	&Copy To Clipboard	C	C
+0006426A/1225/0	&Launch Support Tool...	&Launch Support Tool...	L	L
+0006426A/1226/0	OK	OK		
+0006426A/1230/0	Cancel	إلغاء الأمر		
+0006426A/1234/0	Cancel	إلغاء الأمر		
+0006426A/1236/0	New	New		
+0006426A/1238/0	&New 	&New 	N	N
+0006426A/1240/0	OK	OK		
+0006426A/1241/0	Cancel	إلغاء الأمر		
+0006426A/1242/0	&Help	&مساعدة	H	?
+0006426A/1245/0	Printing	Printing		
+0006426A/1246/0	Document :	Document :		
+0006426A/1248/0	Page :	Page :		
+0006426A/1250/0	Printer :	Printer :		
+0006426A/1252/0	Port :	Port :		
+0006426A/1254/0	Cancel	إلغاء الأمر		
+0006426A/1257/0	&Print...	&Print...	P	P
+0006426A/1258/0	&Next Page	&Next Page	N	N
+0006426A/1259/0	Pre&v Page	Pre&v Page	V	V
+0006426A/1261/0	Zoom &In	Zoom &In	I	I
+0006426A/1262/0	Zoom &Out	Zoom &Out	O	O
+0006426A/1263/0	&Close	&Close	C	C
+0006426A/1266/0	The Snagit Video Start/Pause/Resume hotkey is in use by another program. Select a different keyboard combination for the hotkey.	The Snagit Video Start/Pause/Resume hotkey is in use by another program. Select a different keyboard combination for the hotkey.		
+0006426A/1267/0	There is %s of available space on drive [%s]. We suggest at least %s of available disk space for scrolling capture.	There is %s of available space on drive [%s]. We suggest at least %s of available disk space for scrolling capture.		
+0006426A/1268/0	Exit Snagit	Exit Snagit		
+0006426A/1269/0	The Snagit Video Stop Capture hotkey is in use by another program. Select a different keyboard combination for the hotkey.	The Snagit Video Stop Capture hotkey is in use by another program. Select a different keyboard combination for the hotkey.		
+0006426A/1270/0	The Snagit Video Screendraw hotkey is in use by another program. Select a different keyboard combination for the hotkey.	The Snagit Video Screendraw hotkey is in use by another program. Select a different keyboard combination for the hotkey.		
+0006426A/1271/0	System Audio Setup Error	System Audio Setup Error		
+0006426A/1272/0	Unable to Record Video	Unable to Record Video		
+0006426A/1273/0	Unable to initialize the camera. Make sure the camera is connected.\r\n\r\nClick 'Continue' to turn camera off for this recording, click 'Cancel' to exit the recording.	Unable to initialize the camera. Make sure the camera is connected.\r\n\r\nClick 'Continue' to turn camera off for this recording, click 'Cancel' to exit the recording.		
+0006426A/1274/0	Scrolling. Please wait...\nClick to stop.	Scrolling. Please wait...\nClick to stop.		
+0006426A/1275/0	Unable to read all of the parameters sent by your web browser.	Unable to read all of the parameters sent by your web browser.		
+0006426A/1276/0	There is insufficient space on drive [%s].\nSnagit must stop your capture.	There is insufficient space on drive [%s].\nSnagit must stop your capture.		
+0006426A/1277/0	There is %s of available space on drive [%s]. We suggest at least %s of available disk space for scrolling capture.	There is %s of available space on drive [%s]. We suggest at least %s of available disk space for scrolling capture.		
+0006426A/1278/0	Very Low Quality (5 fps)	Very Low Quality (5 fps)		
+0006426A/1279/0	Low Quality (10 fps)	Low Quality (10 fps)		
+0006426A/1280/0	Cancel Capture	Cancel Capture		
+0006426A/1281/0	Snagit timed out trying to start your capture.  Please go back to the website and start the capture again.	Snagit timed out trying to start your capture.  Please go back to the website and start the capture again.		
+0006426A/1282/0	Delete	Delete		
+0006426A/1283/0	Home	Home		
+0006426A/1284/0	End	End		
+0006426A/1285/0	Page Up	Page Up		
+0006426A/1286/0	Page Down	Page Down		
+0006426A/1287/0	Medium Quality (15 fps)	Medium Quality (15 fps)		
+0006426A/1288/0	High Quality (30 fps)	High Quality (30 fps)		
+0006426A/1289/0	(recommended)	(recommended)		
+0006426A/1290/0	Very High Quality (60 fps)	Very High Quality (60 fps)		
+0006426A/1291/0	Image	Image		
+0006426A/1292/0	Video	Video		
+0006426A/1293/0	The Snagit capture hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?	The Snagit capture hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?		
+0006426A/1294/0	The Snagit Hide/Unhide hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?	The Snagit Hide/Unhide hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?		
+0006426A/1295/0	The Snagit Repeat Last Capture hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?	The Snagit Repeat Last Capture hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?		
+0006426A/1296/0	The Snagit Video Start/Pause/Resume hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?	The Snagit Video Start/Pause/Resume hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?		
+0006426A/1297/0	The Snagit Video Stop Capture hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?	The Snagit Video Stop Capture hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?		
+0006426A/1298/0	The Snagit Video Screendraw hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?	The Snagit Video Screendraw hotkey is in use by another program.  Do you want to override the existing hotkey assignment to use for Snagit?		
+0006426A/1299/0	The window no longer exists	The window no longer exists		
+0006426A/1300/0	Failed to initialize recorder. Your video capture has been aborted.	Failed to initialize recorder. Your video capture has been aborted.		
+0006426A/1301/0	Sorry! Snagit had to stop recording due to the loss of audio input.	Sorry! Snagit had to stop recording due to the loss of audio input.		
+0006426A/1302/0	Image	Image		
+0006426A/1303/0	Unable to initialize the camera. Make sure the camera is connected.\r\n\r\nClick 'Continue' to record using another available camera, click 'Cancel' to exit the recording.	Unable to initialize the camera. Make sure the camera is connected.\r\n\r\nClick 'Continue' to record using another available camera, click 'Cancel' to exit the recording.		
+0006426A/1304/0	Video	Video		
+0006426A/1305/0	There is insufficient space on drive [%s].\nSnagit must stop your recording.	There is insufficient space on drive [%s].\nSnagit must stop your recording.		
+0006426A/1306/0	Video capture terminated unexpectedly. The video recorder returned error %d.	Video capture terminated unexpectedly. The video recorder returned error %d.		
+0006426A/1307/0	Unable to initialize the screen data. If this problem persists, please contact Technical Support.	Unable to initialize the screen data. If this problem persists, please contact Technical Support.		
+0006426A/1308/0	Video capture terminated unexpectedly. The video recorder returned error 0x%x.	Video capture terminated unexpectedly. The video recorder returned error 0x%x.		
+0006426A/1309/0	Unable to initialize the audio. If this problem persists, select another microphone or contact Technical Support.	Unable to initialize the audio. If this problem persists, select another microphone or contact Technical Support.		
+0006426A/1310/0	Failed to initialize MP4 encoder. Your video capture has been aborted.	Failed to initialize MP4 encoder. Your video capture has been aborted.		
+0006426A/1311/0	Recording Device Unavailable\n\nSnagit was unable to use your selected audio recording device. Please verify the recording device is available and working, or select a different device.	Recording Device Unavailable\n\nSnagit was unable to use your selected audio recording device. Please verify the recording device is available and working, or select a different device.		
+0006426A/1312/0	Out of Disk Space	Out of Disk Space		
+0006426A/1313/0	Insufficient Disk Space	Insufficient Disk Space		
+0006426A/1314/0	System audio has failed to initialize.\nDo you want to restart without system audio or cancel recording?	System audio has failed to initialize.\nDo you want to restart without system audio or cancel recording?		
+0006426A/1315/0	Audio device is no longer connected so recording has ended.	Audio device is no longer connected so recording has ended.		
+0006426A/1316/0	Capture in progress.	Capture in progress.		
+0006426A/1317/0	You must allow apps access to use your microphone in Windows Settings > Privacy > Microphone.	You must allow apps access to use your microphone in Windows Settings > Privacy > Microphone.		
+0006426A/1318/0	An audio error occurred (Error 33).	An audio error occurred (Error 33).		
+0006426A/1319/0	No Snagit Printer is currently installed.  Do you want to install a Snagit Printer now?\n\nNote: This may require files from your Windows installation media.	No Snagit Printer is currently installed.  Do you want to install a Snagit Printer now?\n\nNote: This may require files from your Windows installation media.		
+0006426A/1320/0	There is %s of available space on drive [%s]. We suggest at least 1 GB of available disk space for recording video.\n\nWould you like to continue?	There is %s of available space on drive [%s]. We suggest at least 1 GB of available disk space for recording video.\n\nWould you like to continue?		
+0006426A/1321/0	Drive [%s] does not have enough space to start a recording.\nPlease make more space available. A popular tool is Microsoft's Disk Cleanup Utility.	Drive [%s] does not have enough space to start a recording.\nPlease make more space available. A popular tool is Microsoft's Disk Cleanup Utility.		
+0006426A/1322/0	Printer Capture	Printer Capture		
+0006426A/1323/0	Extended Window	Extended Window		
+0006426A/1324/0	The selected window cannot be resized.	The selected window cannot be resized.		
+0006426A/1325/0	An error occurred when capturing window at selected dimensions, please try your capture again.\n\nIf the problem persists, contact technical support.	An error occurred when capturing window at selected dimensions, please try your capture again.\n\nIf the problem persists, contact technical support.		
+0006426A/1326/0	Unable to resize window based on selected dimensions.\n\nChange selection height and width then try your capture again.	Unable to resize window based on selected dimensions.\n\nChange selection height and width then try your capture again.		
+0006426A/1327/0	Unable to capture window at a size larger than the visible screen.\n\nUse the Scrolling selection option to capture a window larger than the screen.	Unable to capture window at a size larger than the visible screen.\n\nUse the Scrolling selection option to capture a window larger than the screen.		
+0006426A/1328/0	Unable to determine module path (%lx)	Unable to determine module path (%lx)		
+0006426A/1329/0	Unable to start SnagPriv.exe	Unable to start SnagPriv.exe		
+0006426A/1330/0	Unable to register class objects	Unable to register class objects		
+0006426A/1331/0	B&uy Now	B&uy Now		
+0006426A/1332/0	Enter Software &Key...	Enter Software &Key...		
+0006426A/1333/0	Send &Feedback	Send &Feedback		
+0006426A/1334/0	&Register Snagit Online	&Register Snagit Online		
+0006426A/1335/0	Ctrl	Ctrl		
+0006426A/1336/0	Alt	Alt		
+0006426A/1337/0	Shift	Shift		
+0006426A/1338/0	Print Screen	Print Screen		
+0006426A/1339/0	None	None		
+0006426A/1340/0	Full Screen	Full Screen		
+0006426A/1341/0	Window	Window		
+0006426A/1342/0	Window Client Area	Window Client Area		
+0006426A/1343/0	Active Window	Active Window		
+0006426A/1344/0	Region	Region		
+0006426A/1345/0	Fixed region	Fixed region		
+0006426A/1346/0	Graphic File	Graphic File		
+0006426A/1347/0	Clipboard	Clipboard		
+0006426A/1348/0	Insert	Insert		
+0006426A/1349/0	Menu	Menu		
+0006426A/1350/0	Object	Object		
+0006426A/1351/0	Click to resume video capture	Click to resume video capture		
+0006426A/1352/0	Click to pause video capture	Click to pause video capture		
+0006426A/1353/0	Click to resume step capture	Click to resume step capture		
+0006426A/1354/0	Click to pause step capture	Click to pause step capture		
+0006426A/1355/0	F12 key not allowed	F12 key not allowed		
+0006426A/1356/0	Do you really want to cancel?	Do you really want to cancel?		
+0006426A/1357/0	Printer Capture	Printer Capture		
+0006426A/1358/0	New Profile	New Profile		
+0006426A/1359/0	Unable to open file %1 (%2)	Unable to open file %1 (%2)		
+0006426A/1360/0	Start &Capture	Start &Capture		
+0006426A/1361/0	M&anage Presets	M&anage Presets		
+0006426A/1362/0	Stop &Capture	Stop &Capture		
+0006426A/1363/0	&Help	&مساعدة		
+0006426A/1364/0	How To Capture An Area	How To Capture An Area		
+0006426A/1365/0	Let me try!	Let me try!		
+0006426A/1366/0	Got it!	Got it!		
+0006426A/1367/0	The auto-start settings could not be modified because of limited access to the Startup folder.\r\n\r\nYou can try logging in as an Administrator and modifying the startup option.\r\n\r\nOn Windows Vista, if you know the Administrator password you can right-click on the Start Menu icon and select Explore.  Navigate to the Programs - Startup directory and either drag the Snagit icon from the desktop to the directory to enable auto-start or remove the Snagit icon from the directory to disable auto-start.	The auto-start settings could not be modified because of limited access to the Startup folder.\r\n\r\nYou can try logging in as an Administrator and modifying the startup option.\r\n\r\nOn Windows Vista, if you know the Administrator password you can right-click on the Start Menu icon and select Explore.  Navigate to the Programs - Startup directory and either drag the Snagit icon from the desktop to the directory to enable auto-start or remove the Snagit icon from the directory to disable auto-start.		
+0006426A/1368/0	Administrator Privilege Required	Administrator Privilege Required		
+0006426A/1369/0	How to Capture a Scrolling Area	How to Capture a Scrolling Area		
+0006426A/1370/0	Automatically Create a Step-by-Step Guide	Automatically Create a Step-by-Step Guide		
+0006426A/1371/0	Snagit Printer	Snagit Printer		
+0006426A/1372/0	All-in-One	All-in-One		
+0006426A/1373/0	The selected camera is already in use. Exit the application that currently controls your camera or connect a different camera and start the recording again.	The selected camera is already in use. Exit the application that currently controls your camera or connect a different camera and start the recording again.		
+0006426A/1374/0	Unable to save capture. No output destination has been selected, auto save is disabled, and the Preview in Snagit Editor option is disabled. Click OK to select a location to save your capture.	Unable to save capture. No output destination has been selected, auto save is disabled, and the Preview in Snagit Editor option is disabled. Click OK to select a location to save your capture.		
+0006426A/1375/0	Snagit Capture	Snagit Capture		
+0006426A/1376/0	Snagit internal error	Snagit internal error		
+0006426A/1377/0	Snagit	Snagit		
+0006426A/1378/0	The Snagit capture hotkey is in use by another program. Select a different keyboard combination for the hotkey.	The Snagit capture hotkey is in use by another program. Select a different keyboard combination for the hotkey.		
+0006426A/1379/0	The Snagit Hide/Unhide hotkey is in use by another program. Select a different keyboard combination for the hotkey.	The Snagit Hide/Unhide hotkey is in use by another program. Select a different keyboard combination for the hotkey.		
+0006426A/1380/0	Unable to capture.	Unable to capture.		
+0006426A/1381/0	Unable to format screen capture.	Unable to format screen capture.		
+0006426A/1382/0	Unable to scroll Firefox window. Reset the zoom level in Firefox (Ctrl + 0) and try again.	Unable to scroll Firefox window. Reset the zoom level in Firefox (Ctrl + 0) and try again.		
+0006426A/1383/0	The Snagit Repeat Last Capture hotkey is in use by another program. Select a different keyboard combination for the hotkey.	The Snagit Repeat Last Capture hotkey is in use by another program. Select a different keyboard combination for the hotkey.		
+0006426A/1384/0	Snagit Capture Preferences	Snagit Capture Preferences		
+0006426A/1385/0	Selection Properties	Selection Properties		
+0006426A/1386/0	Nothing to capture. Clipboard is empty.	Nothing to capture. Clipboard is empty.		
+0006426A/1387/0	Unable to initialize image list	Unable to initialize image list		
+0006426A/1388/0	Printer Capture	Printer Capture		
+0006426A/1389/0	Capture anything you would normally send to a printer and send it to an image file instead.\r\n\r\nTo capture, simply print to the Snagit printer from any application that can print.	Capture anything you would normally send to a printer and send it to an image file instead.\r\n\r\nTo capture, simply print to the Snagit printer from any application that can print.		
+0006426A/1390/0	Unable to create image list	Unable to create image list		
+0006426A/1391/0	Scrolling	Scrolling		
+0006426A/1392/0	Free Hand	Free Hand		
+0006426A/1393/0	Import Profile	Import Profile		
+0006426A/1394/0	Imp&ort	Imp&ort		
+0006426A/1395/0	The file "%1" could not be imported (%2).	The file "%1" could not be imported (%2).		
+0006426A/1396/0	%1 group %2 of %3:	%1 group %2 of %3:		
+0006426A/1397/0	%1 preset %1 of %1:	%1 preset %1 of %1:		
+0006426A/1398/0	Importing	Importing		
+0006426A/1399/0	Exporting	Exporting		
+0006426A/1400/0	Import Preset Progress	Import Preset Progress		
+0006426A/1401/0	Export Preset Progress	Export Preset Progress		
+0006426A/1402/0	Importing Program Data	Importing Program Data		
+0006426A/1403/0	Warning: Importing program data from an untrusted source could pose a security problem.\r\n\r\nUncheck the Program data option if you are unsure of this file's origin.	Warning: Importing program data from an untrusted source could pose a security problem.\r\n\r\nUncheck the Program data option if you are unsure of this file's origin.		
+0006426A/1404/0	from version %d	from version %d		
+0006426A/1405/0	&Presets	&Presets		
+0006426A/1406/0	How to buy Snagit or enter software key	How to buy Snagit or enter software key		
+0006426A/1407/0	Please enter your software registration key	Please enter your software registration key		
+0006426A/1408/0	Invoke Snagit capture\nCapture Now	Invoke Snagit capture\nCapture Now		
+0006426A/1409/0	OLE initialization failed.  Make sure that the OLE libraries are the correct version.	OLE initialization failed.  Make sure that the OLE libraries are the correct version.		
+0006426A/1410/0	General program configuration options	General program configuration options		
+0006426A/1411/0	Display Snagit support information\nSupport	Display Snagit support information\nSupport		
+0006426A/1412/0	Show the Balloon Tips	Show the Balloon Tips		
+0006426A/1413/0	Check for product updates\nCheck for Update	Check for product updates\nCheck for Update		
+0006426A/1414/0	Register Snagit Online\nRegister Snagit Online	Register Snagit Online\nRegister Snagit Online		
+0006426A/1415/0	Open Snagit	Open Snagit		
+0006426A/1416/0	%s failed	%s failed		
+0006426A/1417/0	Start Capture	Start Capture		
+0006426A/1418/0	Stop Capture	Stop Capture		
+0006426A/1419/0	Open Snagit Editor	فتح محرر Snagit		
+0006426A/1420/0	Stop Capture	Stop Capture		
+0006426A/1421/0	Pause Capture	Pause Capture		
+0006426A/1422/0	Resume Capture	Resume Capture		
+0006426A/1423/0	Start Capture	Start Capture		
+0006426A/1424/0	Restart Capture	Restart Capture		
+0006426A/1425/0	Reselect	Reselect		
+0006426A/1426/0	Edit Screenshots in Snagit	Edit Screenshots in Snagit		
+0006426A/1427/0	Enhance screenshots in Snagit	Enhance screenshots in Snagit		
+0006426A/1428/0	Send screenshots captured with the system tools to Snagit Editor to enhance your image with Snagit's editing tools. You can change this setting at any time in the Snagit Preferences.	Send screenshots captured with the system tools to Snagit Editor to enhance your image with Snagit's editing tools. You can change this setting at any time in the Snagit Preferences.		
+0006426A/1429/0	No Thanks	No Thanks		
+0006426A/1430/0	Open Screenshots in Snagit	Open Screenshots in Snagit		
+0006426A/1431/0	Remind Me Later	Remind Me Later		
+0006426A/1432/0	Recovering video(s)	Recovering video(s)		
+0006426A/1433/0	_camera	_camera		
+0006426A/1434/0	You must enter a valid software key.	You must enter a valid software key.		
+0006426A/1435/0	You must enter a valid name.	You must enter a valid name.		
+0006426A/1436/0	Upgrade Notice	Upgrade Notice		
+0006426A/1437/0	Welcome!	Welcome!		
+0006426A/1438/0	Unfortunately, your current Software Key will not work with this version. Upgrade today and get a new key.	Unfortunately, your current Software Key will not work with this version. Upgrade today and get a new key.		
+0006426A/1439/0	Purchase	Purchase		
+0006426A/1440/0	Order Online	Order Online		
+0006426A/1441/0	Order via Phone	Order via Phone		
+0006426A/1442/0	Purchase Upgrade	Purchase Upgrade		
+0006426A/1443/0	Registration Wizard	Registration Wizard		
+0006426A/1444/0	Thank you for trying a new version of @PRODUCT@!	Thank you for trying a new version of @PRODUCT@!		
+0006426A/1445/0	I would like to &upgrade @PRODUCT@ now	I would like to &upgrade @PRODUCT@ now		
+0006426A/1446/0	NOTICE! All output will be branded with a 'Captured by @PRODUCT@' tag when the trial period expires.	NOTICE! All output will be branded with a 'Captured by @PRODUCT@' tag when the trial period expires.		
+0006426A/1447/0	NOTICE! @PRODUCT@ will no longer work after the trial period has expired.	NOTICE! @PRODUCT@ will no longer work after the trial period has expired.		
+0006426A/1448/0	Your trial period has EXPIRED!\nAll output will be branded with a 'Captured by @PRODUCT@' tag until you purchase the product.	Your trial period has EXPIRED!\nAll output will be branded with a 'Captured by @PRODUCT@' tag until you purchase the product.		
+0006426A/1449/0	Your trial period has EXPIRED!\n@PRODUCT@ will not function until you purchase the product.	Your trial period has EXPIRED!\n@PRODUCT@ will not function until you purchase the product.		
+0006426A/1450/0	%d days left	%d days left		
+0006426A/1451/0	To complete your purchase, contact our sales staff by phone (toll free USA only: +1 888-750-0685 or voice: +1 517-381-5901) or visit:	To complete your purchase, contact our sales staff by phone (toll free USA only: +1 888-750-0685 or voice: +1 517-381-5901) or visit:		
+0006426A/1452/0	Enter Software Key	Enter Software Key		
+0006426A/1453/0	The file '%s' cannot be saved because the path is too long.  Please use a shorter path.	The file '%s' cannot be saved because the path is too long.  Please use a shorter path.		
+0006426A/1454/0	The file '%s' cannot be opened because the path is too long.  Please use a shorter path.	The file '%s' cannot be opened because the path is too long.  Please use a shorter path.		
+0006426A/1455/0	The file '%1' does not end with a valid extension.  The extension must be one of the following: %2	The file '%1' does not end with a valid extension.  The extension must be one of the following: %2		
+0006426A/1456/0	NOTE: When using long file names, the path you supply may be truncated by Windows causing your extension to be missing or invalid.  If this is the case, please use a shorter path.	NOTE: When using long file names, the path you supply may be truncated by Windows causing your extension to be missing or invalid.  If this is the case, please use a shorter path.		
+0006426A/1457/0	%1 bytes	%1 bytes		
+0006426A/1458/0	%1%2%3 KB	%1%2%3 KB		
+0006426A/1459/0	%1%2%3 MB	%1%2%3 MB		
+0006426A/1460/0	%1%2%3 GB	%1%2%3 GB		
+0006426A/1461/0	Initialize was not called before attempting to copy the registry data.\r\nIt is highly recommended that Initialize() be called before copying begins, otherwise damage to the registry may occur.\r\nDo you wish to continue?	Initialize was not called before attempting to copy the registry data.\r\nIt is highly recommended that Initialize() be called before copying begins, otherwise damage to the registry may occur.\r\nDo you wish to continue?		
+0006426A/1462/0	Registry Copy WARNING	Registry Copy WARNING		
+0006426A/1463/0	 (%s bytes)	 (%s bytes)		
+0006426A/1464/0	Preview	Preview		
+0006426A/1465/0	Unable to write to file %s	Unable to write to file %s		
+0006426A/1466/0	True	True		
+0006426A/1467/0	False	False		
+0006426A/1468/0	?*<>/|"\n\r	?*<>/|"\n\r		
+0006426A/1469/0	?*<>/|":\\\n\r	?*<>/|":\\\n\r		
+0006426A/1470/0	enu	enu		
+0006426A/1471/0	Could not locate or start TSCHelp.exe\r\nOnline help will not be available	Could not locate or start TSCHelp.exe\r\nOnline help will not be available		
+0006426A/1472/0	Folder: %s does not exist.\n\nCreate Folder?	Folder: %s does not exist.\n\nCreate Folder?		
+0006426A/1473/0	Unable to create folder: %s	Unable to create folder: %s		
+0006426A/1474/0	Unable to launch browser: %d	Unable to launch browser: %d		
+0006426A/1475/0	Could not locate help file: %s\r\nOnline help will not be available	Could not locate help file: %s\r\nOnline help will not be available		
+0006426A/1476/0	The filename '%s' contains the following invalid character: '%s'	The filename '%s' contains the following invalid character: '%s'		
+0006426A/1477/0	ABCDEFGHIJKLMNOPQRSTUVWXYZ	ABCDEFGHIJKLMNOPQRSTUVWXYZ		
+0006426A/1478/0	26	26		
+0006426A/1479/0	SWF not found: 	SWF not found: 		
+0006426A/1480/0	Error! SWF is compressed:	Error! SWF is compressed:		
+0006426A/1481/0	File does not have SWF/SWC signature: 	File does not have SWF/SWC signature: 		
+0006426A/1482/0	Error parsing SWF: 	Error parsing SWF: 		
+0006426A/1483/0	Failed to load MSXML 3.0.	Failed to load MSXML 3.0.		
+0006426A/1484/0	Did You Know...	Did You Know...		
+0006426A/1485/0	Tip of the Day	Tip of the Day		
+0006426A/1486/0	Tool Tip	Tool Tip		
+0006426A/1487/0	&Show tip again	&Show tip again		
+0006426A/1488/0	&Show tips at startup	&Show tips at startup		
+0006426A/1489/0	Can't open the link:\n\n	Can't open the link:\n\n		
+0006426A/1490/0	&Yes	&Yes		
+0006426A/1491/0	&No	&No		
+0006426A/1492/0	*.bmp	*.bmp		
+0006426A/1493/0	*.tif	*.tif		
+0006426A/1494/0	*.jpg;*.jpeg;*.jpe	*.jpg;*.jpeg;*.jpe		
+0006426A/1495/0	*.gif	*.gif		
+0006426A/1496/0	*.png	*.png		
+0006426A/1497/0	*.tga	*.tga		
+0006426A/1498/0	*.ras	*.ras		
+0006426A/1499/0	*.wmf	*.wmf		
+0006426A/1500/0	*.eps	*.eps		
+0006426A/1501/0	*.bmp	*.bmp		
+0006426A/1502/0	*.wfx	*.wfx		
+0006426A/1503/0	*.emf	*.emf		
+0006426A/1504/0	*.wpg	*.wpg		
+0006426A/1505/0	*.psd	*.psd		
+0006426A/1506/0	*.ico	*.ico		
+0006426A/1507/0	*.cur	*.cur		
+0006426A/1508/0	*.pdf	*.pdf		
+0006426A/1509/0	*.snag	*.snag		
+0006426A/1510/0	*.mht	*.mht		
+0006426A/1511/0	*.snagx	*.snagx		
+0006426A/1512/0	*.webp	*.webp		
+0006426A/1513/0	Windows Bitmap (*.bmp)	Windows Bitmap (*.bmp)		
+0006426A/1514/0	Tagged Image File (*.tif)	Tagged Image File (*.tif)		
+0006426A/1515/0	JPEG Image (*.jpg;*.jpeg;*.jpe)	JPEG Image (*.jpg;*.jpeg;*.jpe)		
+0006426A/1516/0	CompuServe GIF (*.gif)	CompuServe GIF (*.gif)		
+0006426A/1517/0	Portable Network Graphics (*.png)	Portable Network Graphics (*.png)		
+0006426A/1518/0	Truevision Targa (*.tga)	Truevision Targa (*.tga)		
+0006426A/1519/0	SUN Raster (*.ras)	SUN Raster (*.ras)		
+0006426A/1520/0	Windows Metafile Format (*.wmf)	Windows Metafile Format (*.wmf)		
+0006426A/1521/0	Grayscale Encapsulated Postscript (*.eps)	Grayscale Encapsulated Postscript (*.eps)		
+0006426A/1522/0	OS/2 Bitmap (*.bmp)	OS/2 Bitmap (*.bmp)		
+0006426A/1523/0	WinFax (*.wfx)	WinFax (*.wfx)		
+0006426A/1524/0	Windows Enhanced Metafile Format (*.emf)	Windows Enhanced Metafile Format (*.emf)		
+0006426A/1525/0	WordPerfect (*.wpg)	WordPerfect (*.wpg)		
+0006426A/1526/0	Adobe PhotoShop (*.psd)	Adobe PhotoShop (*.psd)		
+0006426A/1527/0	Windows Icon (*.ico)	Windows Icon (*.ico)		
+0006426A/1528/0	Windows Cursor (*.cur)	Windows Cursor (*.cur)		
+0006426A/1529/0	Adobe Portable Document Format (*.pdf)	Adobe Portable Document Format (*.pdf)		
+0006426A/1530/0	Snagit v8-v2021 Capture File (*.snag)	Snagit v8-v2021 Capture File (*.snag)		
+0006426A/1531/0	Web Page with Image (*.mht)	Web Page with Image (*.mht)		
+0006426A/1532/0	Snagit Capture File (*.snagx)	Snagit Capture File (*.snagx)		
+0006426A/1533/0	WebP Image (*.webp)	WebP Image (*.webp)		
+0006426A/1534/0	Unable to print image	Unable to print image		
+0006426A/1535/0	Uncompressed	Uncompressed		
+0006426A/1536/0	Compressed (RLE)	Compressed (RLE)		
+0006426A/1537/0	Non-Interlaced GIF 89a	Non-Interlaced GIF 89a		
+0006426A/1538/0	Interlaced GIF 89a	Interlaced GIF 89a		
+0006426A/1539/0	YUV 4:4:4	YUV 4:4:4		
+0006426A/1540/0	YUV 4:4:2	YUV 4:4:2		
+0006426A/1541/0	YUV 4:4:1	YUV 4:4:1		
+0006426A/1542/0	Progressive YUV 4:4:4	Progressive YUV 4:4:4		
+0006426A/1543/0	Progressive YUV 4:4:2	Progressive YUV 4:4:2		
+0006426A/1544/0	Progressive YUV 4:4:1	Progressive YUV 4:4:1		
+0006426A/1545/0	YUV 4:0:0	YUV 4:0:0		
+0006426A/1546/0	Progressive YUV 4:0:0	Progressive YUV 4:0:0		
+0006426A/1547/0	CCITT	CCITT		
+0006426A/1548/0	CCITT Group 3 1D	CCITT Group 3 1D		
+0006426A/1549/0	CCITT Group 3 2D	CCITT Group 3 2D		
+0006426A/1550/0	CCITT Group 4	CCITT Group 4		
+0006426A/1551/0	Uncompressed RGB	Uncompressed RGB		
+0006426A/1552/0	Packbits (RLE) RGB	Packbits (RLE) RGB		
+0006426A/1553/0	LZW RGB	LZW RGB		
+0006426A/1554/0	JPEG (Gray) YCbCr	JPEG (Gray) YCbCr		
+0006426A/1555/0	Uncompressed CMYK	Uncompressed CMYK		
+0006426A/1556/0	Uncompressed YCbCr	Uncompressed YCbCr		
+0006426A/1557/0	Packbits CMYK	Packbits CMYK		
+0006426A/1558/0	Packbits YCbCr	Packbits YCbCr		
+0006426A/1559/0	LZW CMYK	LZW CMYK		
+0006426A/1560/0	LZW YCbCr	LZW YCbCr		
+0006426A/1561/0	JPEG YCbCr 4:4:4	JPEG YCbCr 4:4:4		
+0006426A/1562/0	JPEG YCbCr 4:4:2	JPEG YCbCr 4:4:2		
+0006426A/1563/0	JPEG YCbCr 4:4:1	JPEG YCbCr 4:4:1		
+0006426A/1564/0	Version 1.x	Version 1.x		
+0006426A/1565/0	Version 2.x	Version 2.x		
+0006426A/1566/0	CCITT group 3, 1D	CCITT group 3, 1D		
+0006426A/1567/0	CCITT group 4	CCITT group 4		
+0006426A/1568/0	 (Export Only)	 (Export Only)		
+0006426A/1569/0	Green	Green		
+0006426A/1570/0	Blue	Blue		
+0006426A/1571/0	Red	Red		
+0006426A/1572/0	Can't open link (%d)	Can't open link (%d)		
+0006426A/1573/0	You should select an image!	You should select an image!		
+0006426A/1574/0	You should enter a text!	You should enter a text!		
+0006426A/1575/0	Can't create a new image!	Can't create a new image!		
+0006426A/1576/0	Can't paste bitmap image from the clipboard!	Can't paste bitmap image from the clipboard!		
+0006426A/1577/0	You can paste bitmap with the size (%d x %d) only!	You can paste bitmap with the size (%d x %d) only!		
+0006426A/1578/0	Menu Bar	Menu Bar		
+0006426A/1579/0	Can't customize menues!	Can't customize menues!		
+0006426A/1580/0	BCG Toolbar internal error. Please contact your application vendor.	BCG Toolbar internal error. Please contact your application vendor.		
+0006426A/1581/0	[Unassigned]	[Unassigned]		
+0006426A/1582/0	Can't copy bitmap image into the clipboard!	Can't copy bitmap image into the clipboard!		
+0006426A/1583/0	Hide docked window	Hide docked window		
+0006426A/1584/0	Expand docked window	Expand docked window		
+0006426A/1585/0	Contract docked window	Contract docked window		
+0006426A/1586/0	New Menu	New Menu		
+0006426A/1587/0	File	File		
+0006426A/1588/0	Folder	Folder		
+0006426A/1589/0	New	New		
+0006426A/1590/0	Existing	Existing		
+0006426A/1591/0	Recent	Recent		
+0006426A/1592/0	Delete	Delete		
+0006426A/1593/0	Move Item Up	Move Item Up		
+0006426A/1594/0	Move Item Down	Move Item Down		
+0006426A/1595/0	Executable (*.exe)|*.exe|Command (*.com)|*.com|Information (*.pdf)|*.pdf|Batch (*.bat)|*.bat|All Files (*.*)|*.*||	Executable (*.exe)|*.exe|Command (*.com)|*.com|Information (*.pdf)|*.pdf|Batch (*.bat)|*.bat|All Files (*.*)|*.*||		
+0006426A/1596/0	You may define up to %d tools.	You may define up to %d tools.		
+0006426A/1597/0	Expand (%s)	Expand (%s)		
+0006426A/1598/0	More Buttons	More Buttons		
+0006426A/1599/0	New	New		
+0006426A/1600/0	Drag to make this menu float	Drag to make this menu float		
+0006426A/1601/0	Command	Command		
+0006426A/1602/0	Keys	Keys		
+0006426A/1603/0	Description	Description		
+0006426A/1604/0	Close	Close		
+0006426A/1605/0	Auto Hide	Auto Hide		
+0006426A/1606/0	Scroll Left	Scroll Left		
+0006426A/1607/0	Scroll Right	Scroll Right		
+0006426A/1608/0	Auto Hide All	Auto Hide All		
+0006426A/1609/0	ENU	ENU		
+0006426A/1610/0	Num /	Num /		
+0006426A/1611/0	Shift	Shift		
+0006426A/1612/0	Ctrl	Ctrl		
+0006426A/1613/0	Alt	Alt		
+0006426A/1614/0	Customize	Customize		
+0006426A/1615/0	<Untitled>	<Untitled>		
+0006426A/1616/0	Close	Close		
+0006426A/1617/0	Default Menu	Default Menu		
+0006426A/1618/0	Default application menu. Appears when no documents are open.	Default application menu. Appears when no documents are open.		
+0006426A/1619/0	-------------------------------------------------------------------------------------------	-------------------------------------------------------------------------------------------		
+0006426A/1620/0	Do you really want to delete the toolbar '%s'?	Do you really want to delete the toolbar '%s'?		
+0006426A/1621/0	All Commands	All Commands		
+0006426A/1622/0	All your changes will be lost! Do you really want to reset the toolbar '%s'?	All your changes will be lost! Do you really want to reset the toolbar '%s'?		
+0006426A/1623/0	All your changes will be lost! Do you really want to reset all toolbars and menus?	All your changes will be lost! Do you really want to reset all toolbars and menus?		
+0006426A/1624/0	All your changes will be lost! Do you really want to reset the menu '%s'?	All your changes will be lost! Do you really want to reset the menu '%s'?		
+0006426A/1625/0	Default	Default		
+0006426A/1626/0	All your changes will be lost! Do you really want to reset the keyboard assignments?	All your changes will be lost! Do you really want to reset the keyboard assignments?		
+0006426A/1627/0	You can't create more than %d user-defined toolbars!	You can't create more than %d user-defined toolbars!		
+0006426A/1628/0	This will delete the record of commands you've used in this application and restore the default set of visible commands to the menus and toolbars. It will not undo any explicit customizations. Are you sure you want to do this?	This will delete the record of commands you've used in this application and restore the default set of visible commands to the menus and toolbars. It will not undo any explicit customizations. Are you sure you want to do this?		
+0006426A/1629/0	&Reset Toolbar	&Reset Toolbar		
+0006426A/1630/0	Fill Tool\nFill	Fill Tool\nFill		
+0006426A/1631/0	Pencil Tool\nPencil	Pencil Tool\nPencil		
+0006426A/1632/0	Select Color Tool\nSelect Color	Select Color Tool\nSelect Color		
+0006426A/1633/0	Line Tool\nLine	Line Tool\nLine		
+0006426A/1634/0	Rectangle Tool\nRectangle	Rectangle Tool\nRectangle		
+0006426A/1635/0	Ellipse Tools\nEllipse	Ellipse Tools\nEllipse		
+0006426A/1636/0	Copy Tool\nCopy	Copy Tool\nCopy		
+0006426A/1637/0	Paste Tool\nPaste	Paste Tool\nPaste		
+0006426A/1638/0	Clear Tool\nClear	Clear Tool\nClear		
+0006426A/1639/0	The dynamic link library "%s" could not be found.	The dynamic link library "%s" could not be found.		
+0006426A/1640/0	"%s" was loaded, but the entry "%s" was not found.	"%s" was loaded, but the entry "%s" was not found.		
+0006426A/1641/0	Toolbar Options	Toolbar Options		
+0006426A/1642/0	&Add or Remove Buttons	&Add or Remove Buttons		
+0006426A/1643/0	Tasks Pane	Tasks Pane		
+0006426A/1644/0	Back	Back		
+0006426A/1645/0	Forward	Forward		
+0006426A/1646/0	Home	Home		
+0006426A/1647/0	Close	Close		
+0006426A/1648/0	Other Task Panes	Other Task Panes		
+0006426A/1649/0	Close Full Screen	Close Full Screen		
+0006426A/1650/0	Full Screen	Full Screen		
+0006426A/1651/0	S&how Buttons on One Row	S&how Buttons on One Row		
+0006426A/1652/0	S&how Buttons on Two Rows	S&how Buttons on Two Rows		
+0006426A/1653/0	Show More Buttons	Show More Buttons		
+0006426A/1654/0	Show Fewer Buttons	Show Fewer Buttons		
+0006426A/1655/0	Navigation Pane Options...	Navigation Pane Options...		
+0006426A/1656/0	Window Position	Window Position		
+0006426A/1657/0	&Floating	&Floating		
+0006426A/1658/0	&Docking	&Docking		
+0006426A/1659/0	&Auto Hide	&Auto Hide		
+0006426A/1660/0	&Hide	&Hide		
+0006426A/1661/0	Active Files	Active Files		
+0006426A/1662/0	Clear All Filters	Clear All Filters		
+0006426A/1663/0	Drag a column header here to group by that column.	Drag a column header here to group by that column.		
+0006426A/1664/0	Field Chooser	Field Chooser		
+0006426A/1665/0	Show Quick Access Toolbar Below the Ribbon	Show Quick Access Toolbar Below the Ribbon		
+0006426A/1666/0	Show Quick Access Toolbar Above the Ribbon	Show Quick Access Toolbar Above the Ribbon		
+0006426A/1667/0	Add to Quick Access Toolbar	Add to Quick Access Toolbar		
+0006426A/1668/0	Remove from Quick Access Toolbar	Remove from Quick Access Toolbar		
+0006426A/1669/0	Customize Quick Access Toolbar...	Customize Quick Access Toolbar...		
+0006426A/1670/0	Minimize the Ribbon	Minimize the Ribbon		
+0006426A/1671/0	Status Bar Configuration	Status Bar Configuration		
+0006426A/1672/0	&Tabbed Document	&Tabbed Document		
+0006426A/1673/0	&Print Preview	&Print Preview		
+0006426A/1674/0	Print	Print		
+0006426A/1675/0	Zoom	Zoom		
+0006426A/1676/0	Preview	Preview		
+0006426A/1677/0	<Separator>	<Separator>		
+0006426A/1678/0	Customize Quick Access Toolbar	Customize Quick Access Toolbar		
+0006426A/1679/0	More Commands...	More Commands...		
+0006426A/1680/0	Show Below the Ribbon	Show Below the Ribbon		
+0006426A/1681/0	Show Above the Ribbon	Show Above the Ribbon		
+0006426A/1682/0	Cancel	إلغاء الأمر		
+0006426A/1683/0	Undo %d Actions	Undo %d Actions		
+0006426A/1684/0	Undo 1 Action	Undo 1 Action		
+0006426A/1685/0	Today	Today		
+0006426A/1686/0	(no fields available)	(no fields available)		
+0006426A/1687/0	More	More		
+0006426A/1688/0	Row %d of %d	Row %d of %d		
+0006426A/1689/0	Row %d-%d of %d	Row %d-%d of %d		
+0006426A/1690/0	&Add Gallery to Quick Access Toolbar	&Add Gallery to Quick Access Toolbar		
+0006426A/1691/0	Row Up	Row Up		
+0006426A/1692/0	Row Down	Row Down		
+0006426A/1693/0	Do you want to clear the contents of the cells?	Do you want to clear the contents of the cells?		
+0006426A/1694/0	Do you want to replace the contents of the destination cells?	Do you want to replace the contents of the destination cells?		
+0006426A/1695/0	%s on %s	%s on %s		
+0006426A/1696/0	%g cm x %g cm	%g cm x %g cm		
+0006426A/1697/0	Collated\n1,2,3  1,2,3  1,2,3	Collated\n1,2,3  1,2,3  1,2,3		
+0006426A/1698/0	Uncollated\n1,1,1  2,2,2  3,3,3	Uncollated\n1,1,1  2,2,2  3,3,3		
+0006426A/1699/0	Print to File	Print to File		
+0006426A/1700/0	Landscape Orientation	Landscape Orientation		
+0006426A/1701/0	Portrait Orientation	Portrait Orientation		
+0006426A/1702/0	Print All Pages\nPrint the entire document	Print All Pages\nPrint the entire document		
+0006426A/1703/0	Print Current Page\nOnly print the current page	Print Current Page\nOnly print the current page		
+0006426A/1704/0	Print Custom Range\nEnter specific pages to print	Print Custom Range\nEnter specific pages to print		
+0006426A/1705/0	Print Selection\nOnly print the selected content	Print Selection\nOnly print the selected content		
+0006426A/1706/0	Ready	Ready		
+0006426A/1707/0	Busy	Busy		
+0006426A/1708/0	Printer Door Open	Printer Door Open		
+0006426A/1709/0	Printer Error	Printer Error		
+0006426A/1710/0	Initializing	Initializing		
+0006426A/1711/0	I/O Active	I/O Active		
+0006426A/1712/0	Manual Feed	Manual Feed		
+0006426A/1713/0	No Toner	No Toner		
+0006426A/1714/0	Not Available	Not Available		
+0006426A/1715/0	Offline	Offline		
+0006426A/1716/0	Out Of Memory	Out Of Memory		
+0006426A/1717/0	Output Bin Full	Output Bin Full		
+0006426A/1718/0	Page Punt	Page Punt		
+0006426A/1719/0	Paper Jam	Paper Jam		
+0006426A/1720/0	Paper Out	Paper Out		
+0006426A/1721/0	Paper Problem	Paper Problem		
+0006426A/1722/0	Paused	Paused		
+0006426A/1723/0	Pending Deletion	Pending Deletion		
+0006426A/1724/0	Printing	Printing		
+0006426A/1725/0	Processing	Processing		
+0006426A/1726/0	Toner Low	Toner Low		
+0006426A/1727/0	User Intervention	User Intervention		
+0006426A/1728/0	Waiting	Waiting		
+0006426A/1729/0	Warming Up	Warming Up		
+0006426A/1730/0	Server Unknown	Server Unknown		
+0006426A/1731/0	Power Save	Power Save		
+0006426A/1732/0	Status Unknown	Status Unknown		
+0006426A/1733/0	Up\nClockwise\nLeft\nNarrow Field of View\nDown\nWiden Field of View\nRight\nCounter clockwise\nReset	Up\nClockwise\nLeft\nNarrow Field of View\nDown\nWiden Field of View\nRight\nCounter clockwise\nReset		
+0006426A/1734/0	Axis Name: %s	Axis Name: %s		
+0006426A/1735/0	X: %s\nY: %s	X: %s\nY: %s		
+0006426A/1736/0	Time: %s\nOpen: %.4f\nHigh: %.4f\nLow: %.4f\nClose: %.4f	Time: %s\nOpen: %.4f\nHigh: %.4f\nLow: %.4f\nClose: %.4f		
+0006426A/1737/0	Reset Value	Reset Value		
+0006426A/1738/0	Copy Value	Copy Value		
+0006426A/1739/0	Paste Value	Paste Value		
+0006426A/1740/0	Edit Value	Edit Value		
+0006426A/1741/0	View Commands	View Commands		
+0006426A/1742/0	View Descriptions	View Descriptions		
+0006426A/1743/0	Pin this item to the list	Pin this item to the list		
+0006426A/1744/0	Unpin this item from the list	Unpin this item from the list		
+0006426A/1745/0	Value: %s	Value: %s		
+0006426A/1746/0	%s: %s\n%s: %s\n%s: %s	%s: %s\n%s: %s\n%s: %s		
+0006426A/1747/0	X: %s\nY: %s\nSize: %s	X: %s\nY: %s\nSize: %s		
+0006426A/1748/0	Solid\nDash\nDot\nDash Dot\nDash Dot Dot	Solid\nDash\nDot\nDash Dot\nDash Dot Dot		
+0006426A/1749/0	Scr&ipt:	Scr&ipt:		
+0006426A/1750/0	Categorized\nCategorized	Categorized\nCategorized		
+0006426A/1751/0	Alphabetical\nAlphabetical	Alphabetical\nAlphabetical		
+0006426A/1752/0	No properties match the search criteria	No properties match the search criteria		
+0006426A/1753/0	Brush	Brush		
+0006426A/1754/0	No color	No color		
+0006426A/1755/0	Other	Other		
+0006426A/1756/0	Customize the Ribbon...	Customize the Ribbon...		
+0006426A/1757/0	Delete all Ribbon customizations for this program?	Delete all Ribbon customizations for this program?		
+0006426A/1758/0	Search	Search		
+0006426A/1759/0	Select All	Select All		
+0006426A/1760/0	R:%1 G:%2 B:%3	R:%1 G:%2 B:%3		
+0006426A/1761/0	Snapping Selection	Snapping Selection		
+0006426A/1762/0	Updating Selection	Updating Selection		
+0006426A/1763/0	Updating Selections	Updating Selections		
+0006426A/1764/0	Drag to Swap	Drag to Swap		
+0006426A/1765/0	Alt+	Alt+		
+0006426A/1766/0	Ctrl+	Ctrl+		
+0006426A/1767/0	Shift+	Shift+		
+0006426A/1768/0	Identifying Moveable Objects	Identifying Moveable Objects		
+0006426A/1769/0	Searching for Text	Searching for Text		
+0006426A/1770/0	Generating Objects	Generating Objects		
+0006426A/1771/0	Saving File...	Saving File...		
+0006426A/1772/0	Drop Here to Swap	Drop Here to Swap		
+0006426A/1773/0	Add a new section to the template	Add a new section to the template		
+0006426A/1774/0	Auto-Filling Background	Auto-Filling Background		
+0006426A/1775/0	Searching for Sensitive Information	Searching for Sensitive Information		
+0006426A/1776/0	Delete section	Delete section		
+0006426A/1777/0	Section options	Section options		
+0006426A/1778/0	%1 minute	%1 minute		
+0006426A/1779/0	%1 step	%1 step		
+0006426A/1780/0	&Options...	&Options...		
+0006426A/1781/0	&Copy file path	&Copy file path		
+0006426A/1782/0	Custom...	Custom...		
+0006426A/1783/0	Transparent	Transparent		
+0006426A/1784/0	Snagit	Snagit		
+0006426A/1785/0	Drag to make this menu float	Drag to make this menu float		
+0006426A/1786/0	Arrows	Arrows		
+0006426A/1787/0	Balloons	Balloons		
+0006426A/1788/0	Unable to display colour chooser dialog	Unable to display colour chooser dialog		
+0006426A/1789/0	EditorOverview.snagx	EditorOverview.snagx		
+0006426A/1790/0	TemplateOnboarding.snagx	TemplateOnboarding.snagx		
+0006426A/1791/0	*.snagitstamps	*.snagitstamps		
+0006426A/1792/0	Snagit Stamps (*.snagitstamps)	Snagit Stamps (*.snagitstamps)		
+0006426A/1793/0	Invalid value. Values must follow the sequence 1 to 99999, A to Z, or AA to ZZZZZ. The following values are not supported:\n-Combination of numbers and letters (1b)\n-Characters other than numbers and letters (%)\n-Combination of uppercase and lowercase letters (Ab)	Invalid value. Values must follow the sequence 1 to 99999, A to Z, or AA to ZZZZZ. The following values are not supported:\n-Combination of numbers and letters (1b)\n-Characters other than numbers and letters (%)\n-Combination of uppercase and lowercase letters (Ab)		
+0006426A/1794/0	The PDF file cannot be saved.	The PDF file cannot be saved.		
+0006426A/1795/0	Save Value	Save Value		
+0006426A/1796/0	Cancel	إلغاء الأمر		
+0006426A/1797/0	Not enough memory available	Not enough memory available		
+0006426A/1798/0	Invalid bitmap handle	Invalid bitmap handle		
+0006426A/1799/0	Not enough memory available	Not enough memory available		
+0006426A/1800/0	Error seeking to position	Error seeking to position		
+0006426A/1801/0	Error writing file	Error writing file		
+0006426A/1802/0	File not present - abort	File not present - abort		
+0006426A/1803/0	Error reading file	Error reading file		
+0006426A/1804/0	Invalid filename specified	Invalid filename specified		
+0006426A/1805/0	Invalid file format	Invalid file format		
+0006426A/1806/0	File not found	File not found		
+0006426A/1807/0	Invalid width/height	Invalid width/height		
+0006426A/1808/0	Image format recognized, but sub-type not supported	Image format recognized, but sub-type not supported		
+0006426A/1809/0	Invalid parameter passed	Invalid parameter passed		
+0006426A/1810/0	Not able to open file	Not able to open file		
+0006426A/1811/0	Unknown compression format	Unknown compression format		
+0006426A/1812/0	Feature not supported	Feature not supported		
+0006426A/1813/0	Invalid QFactor specified	Invalid QFactor specified		
+0006426A/1814/0	Invalid compression format	Invalid compression format		
+0006426A/1815/0	Invalid bits/pixel	Invalid bits/pixel		
+0006426A/1816/0	Invalid window size	Invalid window size		
+0006426A/1817/0	Escape key pressed - or user aborted operation	Escape key pressed - or user aborted operation		
+0006426A/1818/0	Failed to save document:\n%s	Failed to save document:\n%s		
+0006426A/1819/0	Snagit Stamps	Snagit Stamps		
+0006426A/1820/0	High color (%d-Bit)	High color (%d-Bit)		
+0006426A/1821/0	True color (%d-Bit)	True color (%d-Bit)		
+0006426A/1822/0	Grayscale (%1-bit)	Grayscale (%1-bit)		
+0006426A/1823/0	%1 colors (%2-bit)	%1 colors (%2-bit)		
+0006426A/1824/0	Default	Default		
+0006426A/1825/0	JPEG Image Quality must be between 1 and 100	JPEG Image Quality must be between 1 and 100		
+0006426A/1826/0	Page %d of %d	Page %d of %d		
+0006426A/1827/0	Selection	Selection		
+0006426A/1828/0	Color Red %1 Green %2 Blue %3	Color Red %1 Green %2 Blue %3		
+0006426A/1829/0	True color + transparency (32-bit)	True color + transparency (32-bit)		
+0006426A/1830/0	Letter	Letter		
+0006426A/1831/0	Legal	Legal		
+0006426A/1832/0	Executive	Executive		
+0006426A/1833/0	Ledger	Ledger		
+0006426A/1834/0	A4	A4		
+0006426A/1835/0	A5	A5		
+0006426A/1836/0	A6	A6		
+0006426A/1837/0	B4	B4		
+0006426A/1838/0	B5	B5		
+0006426A/1839/0	C4	C4		
+0006426A/1840/0	C5	C5		
+0006426A/1841/0	Custom	Custom		
+0006426A/1842/0	Snagit by TechSmith	Snagit by TechSmith		
+0006426A/1843/0	Screen Capture by Snagit	Screen Capture by Snagit		
+0006426A/1844/0	Quick Reference	Quick Reference		
+0006426A/1845/0	Reference	تفضيلات		
+0006426A/1846/0	Short Title	Short Title		
+0006426A/1847/0	Heading	Heading		
+0006426A/1848/0	Before	Before		
+0006426A/1849/0	After	After		
+0006426A/1850/0	DO	DO		
+0006426A/1851/0	DON'T	DON'T		
+0006426A/1852/0	Add caption here	Add caption here		
+0006426A/1853/0	Top Text	Top Text		
+0006426A/1854/0	Bottom Text	Bottom Text		
+0006426A/1855/0	This is where you can insert a note or a tip	This is where you can insert a note or a tip		
+0006426A/1856/0	Topic	Topic		
+0006426A/1857/0	Step	Step		
+0006426A/1858/0	Heading One	Heading One		
+0006426A/1859/0	Heading Two	Heading Two		
+0006426A/1860/0	Heading Three	Heading Three		
+0006426A/1861/0	Heading Four	Heading Four		
+0006426A/1862/0	Start Date	Start Date		
+0006426A/1863/0	End Date	End Date		
+0006426A/1864/0	Made with	Made with		
+0006426A/1865/0	Tag Line	Tag Line		
+0006426A/1866/0	Cheat Sheet	Cheat Sheet		
+0006426A/1867/0	Mockup	Mockup		
+0006426A/1868/0	Example	Example		
+0006426A/1869/0	Add description here	Add description here		
+0006426A/1870/0	Created by	Created by		
+0006426A/1871/0	Add Title Here	Add Title Here		
+0006426A/1872/0	Add Subtitle Here	Add Subtitle Here		
+0006426A/1873/0	Step One	Step One		
+0006426A/1874/0	Step Two	Step Two		
+0006426A/1875/0	Step Three	Step Three		
+0006426A/1876/0	Step Four	Step Four		
+0006426A/1877/0	Date	Date		
+0006426A/1878/0	Add name here	Add name here		
+0006426A/1879/0	Add Subheading Here	Add Subheading Here		
+0006426A/1880/0	Add summary here	Add summary here		
+0006426A/1881/0	BEST	BEST		
+0006426A/1882/0	BETTER	BETTER		
+0006426A/1883/0	FROM	FROM		
+0006426A/1884/0	GOOD	GOOD		
+0006426A/1885/0	Happy Birthday!	Happy Birthday!		
+0006426A/1886/0	Happy Holidays!	Happy Holidays!		
+0006426A/1887/0	Merry Christmas!	Merry Christmas!		
+0006426A/1888/0	TO	TO		
+0006426A/1889/0	CERTIFICATE	CERTIFICATE		
+0006426A/1890/0	OF APPRECIATION	OF APPRECIATION		
+0006426A/1891/0	PROUDLY PRESENTED TO	PROUDLY PRESENTED TO		
+0006426A/1892/0	EMPLOYEE OF THE MONTH	EMPLOYEE OF THE MONTH		
+0006426A/1893/0	Signature	Signature		
+0006426A/1894/0	Add details here	Add details here		
+0006426A/1895/0	Store Manager	Store Manager		
+0006426A/1896/0	Add text here	Add text here		
+0006426A/1897/0	%1 minutes	%1 minutes		
+0006426A/1898/0	Drop Image Here	Drop Image Here		
+0006426A/1899/0	%1 steps	%1 steps		
+0006426A/1900/0	Click here	Click here		
+0006426A/1901/0	Are you sure you want to delete the current page?	Are you sure you want to delete the current page?		
+0006426A/1902/0	Snagit User	Snagit User		
+0006426A/1903/0	R: %1 G: %2 B: %3	R: %1 G: %2 B: %3		
+0006426A/1904/0	Saving Document	Saving Document		
+0006426A/1905/0	Snagit is saving your capture. Please wait.	Snagit is saving your capture. Please wait.		
+0006426A/1906/0	Stopping...	Stopping...		
+0006426A/1907/0	Snagit is stopping the save operation. Please wait.	Snagit is stopping the save operation. Please wait.		
+0006426A/1908/0	Check Box	Check Box		
+0006426A/1909/0	Custom Control	Custom Control		
+0006426A/1910/0	Column Header	Column Header		
+0006426A/1911/0	Combo Box	Combo Box		
+0006426A/1912/0	Document	Document		
+0006426A/1913/0	Image	Image		
+0006426A/1914/0	Group Control	Group Control		
+0006426A/1915/0	Hyperlink	Hyperlink		
+0006426A/1916/0	List Control	List Control		
+0006426A/1917/0	List Item	List Item		
+0006426A/1918/0	Menu Bar	Menu Bar		
+0006426A/1919/0	Menu Item	Menu Item		
+0006426A/1920/0	Popup	Popup		
+0006426A/1921/0	Tree Control	Tree Control		
+0006426A/1922/0	Tree Item	Tree Item		
+0006426A/1923/0	Tab Item	Tab Item		
+0006426A/1924/0	Tab Control	Tab Control		
+0006426A/1925/0	Panel Window	Panel Window		
+0006426A/1926/0	Progress Bar	Progress Bar		
+0006426A/1927/0	Button	Button		
+0006426A/1928/0	Radio Button	Radio Button		
+0006426A/1929/0	Scroll Bar	Scroll Bar		
+0006426A/1930/0	Separator	Separator		
+0006426A/1931/0	Slider	Slider		
+0006426A/1932/0	Spinner	Spinner		
+0006426A/1933/0	Split Button	Split Button		
+0006426A/1934/0	Text Control	Text Control		
+0006426A/1935/0	Status Bar	Status Bar		
+0006426A/1936/0	Table	Table		
+0006426A/1937/0	Edit Control	Edit Control		
+0006426A/1938/0	Title Bar	Title Bar		
+0006426A/1939/0	Tool Bar	Tool Bar		
+0006426A/1940/0	Tool Tip	Tool Tip		
+0006426A/1941/0	Window	Window		
+0006426A/1942/0	System	System		
+0006426A/1943/0	Snagit encountered a problem (memory mapped file could not be created)\n	Snagit encountered a problem (memory mapped file could not be created)\n		
+0006426A/1944/0	Snagit encountered a problem (unable to map view of a file)	Snagit encountered a problem (unable to map view of a file)		
+0006426A/1945/0	Snagit encountered a problem (unable to unmap view of a file)"	Snagit encountered a problem (unable to unmap view of a file)"		
+0006426A/1946/0	Bad Value	Bad Value		
+0006426A/1947/0	Unable to start %s. If this problem persists, please contact Technical Support.	Unable to start %s. If this problem persists, please contact Technical Support.		
+0006426A/1948/0	Snagit	Snagit		
+0006426A/1949/0	Restoring automatically stored Library captures.  Please wait.	Restoring automatically stored Library captures.  Please wait.		
+0006426A/1950/0	Restore Library	Restore Library		
+0006426A/1951/0	An error occurred while checking for updates.	An error occurred while checking for updates.		
+0006426A/1952/0	Save As	Save As		
+0006426A/1953/0	Please enter a whole number between %1 and %2.	Please enter a whole number between %1 and %2.		
+0006426A/1954/0	Please enter a real number between %1 and %2.	Please enter a real number between %1 and %2.		
+0006426A/1955/0	North	North		
+0006426A/1956/0	North-East	North-East		
+0006426A/1957/0	East	East		
+0006426A/1958/0	South-East	South-East		
+0006426A/1959/0	South	South		
+0006426A/1960/0	South-West	South-West		
+0006426A/1961/0	West	West		
+0006426A/1962/0	North-West	North-West		
+0006426A/1963/0	Clipboard	Clipboard		
+0006426A/1964/0	All graphic files	All graphic files		
+0006426A/1965/0	FTP	FTP		
+0006426A/1966/0	Mobile sharing: 	Mobile sharing: 		
+0006426A/1967/0	%1's Snagit	%1's Snagit		
+0006426A/1968/0	www.techsmith.com	www.techsmith.com		
+0006426A/1969/0	Snagit	Snagit		
+0006426A/1970/0	%Y/%m/%d	%Y/%m/%d		
+0006426A/1971/0	Program	Program		
+0006426A/1972/0	Animated GIF (GIF)	Animated GIF (GIF)		
+0006426A/1973/0	Save an image or video capture to a file location.	Save an image or video capture to a file location.		
+0006426A/1974/0	Send the capture to an FTP server using file transfer protocol.	Send the capture to an FTP server using file transfer protocol.		
+0006426A/1975/0	Send the capture to another program.	Send the capture to another program.		
+0006426A/1976/0	Copy the capture onto the Windows Clipboard for quick pasting into other locations or applications.	Copy the capture onto the Windows Clipboard for quick pasting into other locations or applications.		
+0006426A/1977/0	Send the capture to a printer.	Send the capture to a printer.		
+0006426A/1978/0	Brightness: %+d%%	Brightness: %+d%%		
+0006426A/1979/0	Contrast: %+d%%	Contrast: %+d%%		
+0006426A/1980/0	Hue: %+d°	Hue: %+d°		
+0006426A/1981/0	Saturation: %+d%%	Saturation: %+d%%		
+0006426A/1982/0	Gamma: %s	Gamma: %s		
+0006426A/1983/0	Rotation: %s° clockwise	Rotation: %s° clockwise		
+0006426A/1984/0	Monochrome %d%%	Monochrome %d%%		
+0006426A/1985/0	Grayscale	Grayscale		
+0006426A/1986/0	Invert	Invert		
+0006426A/1987/0	Color-Sub	Color-Sub		
+0006426A/1988/0	Dark	Dark		
+0006426A/1989/0	Light	Light		
+0006426A/1990/0	Border	Border		
+0006426A/1991/0	AutoTrim	AutoTrim		
+0006426A/1992/0	Trim	Trim		
+0006426A/1993/0	WaterMark	WaterMark		
+0006426A/1994/0	Capture Info	Capture Info		
+0006426A/1995/0	Version %1 %3- %2	Version %1 %3- %2		
+0006426A/1996/0	Version %1 (Build %2) %4- %3	Version %1 (Build %2) %4- %3		
+0006426A/1997/0	Save Multiple Images (%d images)	Save Multiple Images (%d images)		
+0006426A/1998/0	Those files already exist:\n%s\n\nDo you want to replace them?	Those files already exist:\n%s\n\nDo you want to replace them?		
+0006426A/1999/0	<more files...>	<more files...>		
+0006426A/2000/0	Snagit	Snagit		
+0006426A/2001/0	Top-Right	Top-Right		
+0006426A/2002/0	Bottom-Right	Bottom-Right		
+0006426A/2003/0	Bottom-Left	Bottom-Left		
+0006426A/2004/0	Top-Left	Top-Left		
+0006426A/2005/0	Printer	Printer		
+0006426A/2006/0	File	File		
+0006426A/2007/0	Drop Shadow Edge	Drop Shadow Edge		
+0006426A/2008/0	Fade Edge	Fade Edge		
+0006426A/2009/0	Torn Edge	Torn Edge		
+0006426A/2010/0	Wave Edge	Wave Edge		
+0006426A/2011/0	Saw Edge	Saw Edge		
+0006426A/2012/0	Sharktooth Edge	Sharktooth Edge		
+0006426A/2013/0	Beveled Edge	Beveled Edge		
+0006426A/2014/0	Save As Preferences	Save As Preferences		
+0006426A/2015/0	Please specify a file name	Please specify a file name		
+0006426A/2016/0	Please specify an auto file name prefix	Please specify an auto file name prefix		
+0006426A/2017/0	You must specify a user name for authentication	You must specify a user name for authentication		
+0006426A/2018/0	You must specify the name of the proxy server	You must specify the name of the proxy server		
+0006426A/2019/0	You must specify an FTP server name	You must specify an FTP server name		
+0006426A/2020/0	Scale %1%% x %2%%	Scale %1%% x %2%%		
+0006426A/2021/0	Scale width %d.	Scale width %d.		
+0006426A/2022/0	Scale height %d	Scale height %d		
+0006426A/2023/0	Scale to %1x%2	Scale to %1x%2		
+0006426A/2024/0	Scale %d%%	Scale %d%%		
+0006426A/2025/0	Paint (MS Paint)	Paint (MS Paint)		
+0006426A/2026/0	Adobe Photoshop	Adobe Photoshop		
+0006426A/2027/0	Adobe ImageReady	Adobe ImageReady		
+0006426A/2028/0	Jasc Paint Shop Pro	Jasc Paint Shop Pro		
+0006426A/2029/0	Microsoft Outlook	Microsoft Outlook		
+0006426A/2030/0	Media Player	Media Player		
+0006426A/2031/0	Windows Media Player	Windows Media Player		
+0006426A/2032/0	CaptureFilename	CaptureFilename		
+0006426A/2033/0	Camtasia Player	Camtasia Player		
+0006426A/2034/0	Program	Program		
+0006426A/2035/0	Camtasia Studio	Camtasia Studio		
+0006426A/2036/0	Paint Shop Pro	Paint Shop Pro		
+0006426A/2037/0	Task Pane	Task Pane		
+0006426A/2038/0	Resize Image	Resize Image		
+0006426A/2039/0	Top	Top		
+0006426A/2040/0	Bottom	Bottom		
+0006426A/2041/0	Left	Left		
+0006426A/2042/0	Right	Right		
+0006426A/2043/0	You must sign in to try Snagit free for %d days, or enter a software key to unlock Snagit.	You must sign in to try Snagit free for %d days, or enter a software key to unlock Snagit.		
+0006426A/2044/0	%d-bit	%d-bit		
+0006426A/2045/0	Build %d	Build %d		
+0006426A/2046/0	Watermark	Watermark		
+0006426A/2047/0	Border	Border		
+0006426A/2048/0	Trim	Trim		
+0006426A/2049/0	Color Correction	Color Correction		
+0006426A/2050/0	Color Substitution	Color Substitution		
+0006426A/2051/0	Custom Angle	Custom Angle		
+0006426A/2052/0	Drop Shadow Edge	Drop Shadow Edge		
+0006426A/2053/0	Fade Edge	Fade Edge		
+0006426A/2054/0	Torn Edge	Torn Edge		
+0006426A/2055/0	Wave Edge	Wave Edge		
+0006426A/2056/0	Saw Edge	Saw Edge		
+0006426A/2057/0	Sharktooth Edge	Sharktooth Edge		
+0006426A/2058/0	Beveled Edge	Beveled Edge		
+0006426A/2059/0	Monochrome	Monochrome		
+0006426A/2060/0	Watermark Settings	Watermark Settings		
+0006426A/2061/0	Tasks	Tasks		
+0006426A/2062/0	Tasks (Home)	Tasks (Home)		
+0006426A/2063/0	Snagit's video features have been disabled.\n\nPlease ask your system administrator for more information.	Snagit's video features have been disabled.\n\nPlease ask your system administrator for more information.		
+0006426A/2064/0	To use Snagit's video features, you must install the Windows Media Feature Pack.\n\nPlease visit Microsoft's website to download the Windows Media Feature Pack.\n\nWarning: Make sure you do not install the Windows Media [Format] Feature Pack by mistake.	To use Snagit's video features, you must install the Windows Media Feature Pack.\n\nPlease visit Microsoft's website to download the Windows Media Feature Pack.\n\nWarning: Make sure you do not install the Windows Media [Format] Feature Pack by mistake.		
+0006426A/2065/0	To use Snagit's scrolling capture, you must install the Windows Media Feature Pack.\n\nPlease visit Microsoft's website to download the Windows Media Feature Pack.\n\nWarning: Make sure you do not install the Windows Media [Format] Feature Pack by mistake.	To use Snagit's scrolling capture, you must install the Windows Media Feature Pack.\n\nPlease visit Microsoft's website to download the Windows Media Feature Pack.\n\nWarning: Make sure you do not install the Windows Media [Format] Feature Pack by mistake.		
+0006426A/2066/0	%d x %d	%d x %d		
+0006426A/2067/0	Unable to restart Snagit.  Please try to restart Snagit manually.	Unable to restart Snagit.  Please try to restart Snagit manually.		
+0006426A/2068/0	Unable to initialize GDI+ library.	Unable to initialize GDI+ library.		
+0006426A/2069/0	Unable to restore your library.  Please try to restart Snagit manually.	Unable to restore your library.  Please try to restart Snagit manually.		
+0006426A/2070/0	OK	OK		
+0006426A/2071/0	Snagit version %1 is already running. \nPlease close Snagit %2 before starting Snagit %3.	Snagit version %1 is already running. \nPlease close Snagit %2 before starting Snagit %3.		
+0006426A/2072/0	Snagit is Already Running	Snagit is Already Running		
+0006426A/2073/0	Screen	Screen		
+0006426A/2074/0	Wide	Wide		
+0006426A/2075/0	Tall	Tall		
+0006426A/2076/0	Paper	Paper		
+0006426A/2077/0	The current margin settings and paper width limit the fixed size width to %s %s.	The current margin settings and paper width limit the fixed size width to %s %s.		
+0006426A/2078/0	Layout	Layout		
+0006426A/2079/0	Sample	Sample		
+0006426A/2080/0	inches	inches		
+0006426A/2081/0	Page Setup	Page Setup		
+0006426A/2082/0	cm	cm		
+0006426A/2083/0	Unable to open file using shell associations: %s	Unable to open file using shell associations: %s		
+0006426A/2084/0	Unable to invoke open with dialog	Unable to invoke open with dialog		
+0006426A/2085/0	MonthNum	MonthNum		
+0006426A/2086/0	MonthName	MonthName		
+0006426A/2087/0	MonthShort	MonthShort		
+0006426A/2088/0	DayNum	DayNum		
+0006426A/2089/0	Year2	Year2		
+0006426A/2090/0	Year4	Year4		
+0006426A/2091/0	Weekday	Weekday		
+0006426A/2092/0	WeekShort	WeekShort		
+0006426A/2093/0	Hour24	Hour24		
+0006426A/2094/0	Hour12	Hour12		
+0006426A/2095/0	Minute	Minute		
+0006426A/2096/0	Second	Second		
+0006426A/2097/0	CompName	CompName		
+0006426A/2098/0	Username	Username		
+0006426A/2099/0	AutoNum	AutoNum		
+0006426A/2100/0	Unable to rename file: %s	Unable to rename file: %s		
+0006426A/2101/0	An invalid filename was specified.  A filename cannot contain any of the following characters:\n\\/:*?"<>|	An invalid filename was specified.  A filename cannot contain any of the following characters:\n\\/:*?"<>|		
+0006426A/2102/0	<	<		
+0006426A/2103/0	>	>		
+0006426A/2104/0	Please enter a file prefix	Please enter a file prefix		
+0006426A/2105/0	Width	Width		
+0006426A/2106/0	Height	Height		
+0006426A/2107/0	Length	Length		
+0006426A/2108/0	Image (%s)	Image (%s)		
+0006426A/2109/0	Text Document	Text Document		
+0006426A/2110/0	Movie Clip (MP4)	Movie Clip (MP4)		
+0006426A/2111/0	Format contains an empty string.  It must contain at least one character.	Format contains an empty string.  It must contain at least one character.		
+0006426A/2112/0	Format will generate filenames that are too long.  Shorten the format length.	Format will generate filenames that are too long.  Shorten the format length.		
+0006426A/2113/0	Format contains an illegal character.  Format must not contain *, ?, ", <, >, |, or :.	Format contains an illegal character.  Format must not contain *, ?, ", <, >, |, or :.		
+0006426A/2114/0	Ignoring unknown token.  This usually occurs when a token is misspelled.	Ignoring unknown token.  This usually occurs when a token is misspelled.		
+0006426A/2115/0	Format string is OK.	Format string is OK.		
+0006426A/2116/0	Month (number)	Month (number)		
+0006426A/2117/0	Month name	Month name		
+0006426A/2118/0	Month name (short)	Month name (short)		
+0006426A/2119/0	Day (number)	Day (number)		
+0006426A/2120/0	Year (2 digit)	Year (2 digit)		
+0006426A/2121/0	Year (4 digit)	Year (4 digit)		
+0006426A/2122/0	Weekday	Weekday		
+0006426A/2123/0	Weekday (short)	Weekday (short)		
+0006426A/2124/0	Hour (24-hour)	Hour (24-hour)		
+0006426A/2125/0	Hour (12-hour)	Hour (12-hour)		
+0006426A/2126/0	Minute	Minute		
+0006426A/2127/0	Second	Second		
+0006426A/2128/0	Computer name	Computer name		
+0006426A/2129/0	Username	Username		
+0006426A/2130/0	Automatic number	Automatic number		
+0006426A/2131/0	<Prefix><AutoNum>	<Prefix><AutoNum>		
+0006426A/2132/0	OriginalFilename	OriginalFilename		
+0006426A/2133/0	:*?"<>|	:*?"<>|		
+0006426A/2134/0	<Prefix><AutoNum> (<CompName> - <Username>)	<Prefix><AutoNum> (<CompName> - <Username>)		
+0006426A/2135/0	<Prefix><SysDate> <SysTime>	<Prefix><SysDate> <SysTime>		
+0006426A/2136/0	<SysDate>\\<Prefix><AutoNum>	<SysDate>\\<Prefix><AutoNum>		
+0006426A/2137/0	Original file name	Original file name		
+0006426A/2138/0	<new>	<new>		
+0006426A/2139/0	Prefix	Prefix		
+0006426A/2140/0	SysDate	SysDate		
+0006426A/2141/0	SysTime	SysTime		
+0006426A/2142/0	Prefix	Prefix		
+0006426A/2143/0	System date	System date		
+0006426A/2144/0	System time	System time		
+0006426A/2145/0	AM-PM	AM-PM		
+0006426A/2146/0	AM/PM	AM/PM		
+0006426A/2147/0	Filename: %s already exists	Filename: %s already exists		
+0006426A/2148/0	A filename cannot contain any of the following characters:\n\\/:*?"<>|	A filename cannot contain any of the following characters:\n\\/:*?"<>|		
+0006426A/2149/0	Current file is in use.  Unable to rename the file.	Current file is in use.  Unable to rename the file.		
+0006426A/2150/0	<Weekday>, <MonthName> <DayNum>, <Year4>	<Weekday>, <MonthName> <DayNum>, <Year4>		
+0006426A/2151/0	Unable to save printer settings.  The selected printer is not available.	Unable to save printer settings.  The selected printer is not available.		
+0006426A/2152/0	Unable to find printer name	Unable to find printer name		
+0006426A/2153/0	Unable to find printer port name for printer: %s	Unable to find printer port name for printer: %s		
+0006426A/2154/0	Snagit printers can not be selected for output!	Snagit printers can not be selected for output!		
+0006426A/2155/0	Unable to find printer driver for printer: %s	Unable to find printer driver for printer: %s		
+0006426A/2156/0	%1 on %2	%1 on %2		
+0006426A/2157/0	Default Windows printer	Default Windows printer		
+0006426A/2158/0	The selected printer is not available.	The selected printer is not available.		
+0006426A/2159/0	%s KB	%s KB		
+0006426A/2160/0	Please stop any captures that are in progress, save any changes that you have and close all open dialog windows before continuing with the update.	Please stop any captures that are in progress, save any changes that you have and close all open dialog windows before continuing with the update.		
+0006426A/2161/0	The Ultimate Screen Capture Tool - Snagit gives you all the tools you need to create eye-catching images and videos for easy sharing.	The Ultimate Screen Capture Tool - Snagit gives you all the tools you need to create eye-catching images and videos for easy sharing.		
+0006426A/2162/0	Undo current task and return to Tasks (Home)\nUndo Task	Undo current task and return to Tasks (Home)\nUndo Task		
+0006426A/2163/0	Return to the Tasks (Home) page\nReturn Home	Return to the Tasks (Home) page\nReturn Home		
+0006426A/2164/0	Return to Tasks\nReturn to Tasks	Return to Tasks\nReturn to Tasks		
+0006426A/2165/0	%s is already open in Snagit Editor and has pending changes.  Please choose a different name or close the file and try again.	%s is already open in Snagit Editor and has pending changes.  Please choose a different name or close the file and try again.		
+0006426A/2166/0	%s is currently open in the Snagit Editor.  Choose a different name or close the file and try again.	%s is currently open in the Snagit Editor.  Choose a different name or close the file and try again.		
+0006426A/2167/0	Snagit	Snagit		
+0006426A/2168/0	Select a folder	Select a folder		
+0006426A/2169/0	Show the output directory in Explorer	Show the output directory in Explorer		
+0006426A/2170/0	Could not open the watermark file \nPlease change the current watermark file path or disable the watermark.	Could not open the watermark file \nPlease change the current watermark file path or disable the watermark.		
+0006426A/2171/0	This feature has been disabled.  Please see your system administrator for details.	This feature has been disabled.  Please see your system administrator for details.		
+0006426A/2172/0	\nVideoDoc\nVideo Editor\nVideo File (*.mp4)\n.mp4\nVideo.Document\nVideo.Document	\nVideoDoc\nVideo Editor\nVideo File (*.mp4)\n.mp4\nVideo.Document\nVideo.Document		
+0006426A/2173/0	\nImageDoc\nImage Editor\nSnagit Capture File (*.snagx)\n.snagx\nImage.Document\nImage.Document	\nImageDoc\nImage Editor\nSnagit Capture File (*.snagx)\n.snagx\nImage.Document\nImage.Document		
+0006426A/2174/0	\nLibrary\nLibrary\n\n\nLibrary.Document\nLibrary.Document	\nLibrary\nLibrary\n\n\nLibrary.Document\nLibrary.Document		
+0006426A/2175/0	Automatic	Automatic		
+0006426A/2176/0	Other	Other		
+0006426A/2177/0	Unsaved (%s)	Unsaved (%s)		
+0006426A/2178/0	Snagit Tip	Snagit Tip		
+0006426A/2179/0	Exception %s (0x%.8x) at address 0x%.8x.	Exception %s (0x%.8x) at address 0x%.8x.		
+0006426A/2180/0	Unknown exception.	Unknown exception.		
+0006426A/2181/0	%d of %d	%d of %d		
+0006426A/2182/0	%b %#d, %Y	%b %#d, %Y		
+0006426A/2183/0	All files were successfully moved to:	All files were successfully moved to:		
+0006426A/2184/0	Error: Folder path does not exist	Error: Folder path does not exist		
+0006426A/2185/0	There is insufficient disk space on the drive. Please select another location.	There is insufficient disk space on the drive. Please select another location.		
+0006426A/2186/0	Insufficient permissions to access the selected folder.	Insufficient permissions to access the selected folder.		
+0006426A/2187/0	Error: Failed to move %1 out of %2 files to:	Error: Failed to move %1 out of %2 files to:		
+0006426A/2188/0	Here's a one-time 15 day extension to keep exploring Snagit!	Here's a one-time 15 day extension to keep exploring Snagit!		
+0006426A/2189/0	We are sorry, but the Snagit evaluation period was previously extended and cannot be extended again. Please consider purchasing Snagit to keep up your good work.	We are sorry, but the Snagit evaluation period was previously extended and cannot be extended again. Please consider purchasing Snagit to keep up your good work.		
+0006426A/2190/0	Or visit http://www.techsmith.com/snagit/upgrade	Or visit http://www.techsmith.com/snagit/upgrade		
+0006426A/2191/0	Sorry, Snagit requires Windows 10 or later	Sorry, Snagit requires Windows 10 or later		
+0006426A/2192/0	Save Snagit Diagnostics As	Save Snagit Diagnostics As		
+0006426A/2193/0	Can't open file %1, error = %2\n	Can't open file %1, error = %2\n		
+0006426A/2194/0	Unable to open the Support Tool. Please contact the TechSmith support team.	Unable to open the Support Tool. Please contact the TechSmith support team.		
+0006426A/2195/0	Snagit needs to restart to apply these changes.	Snagit needs to restart to apply these changes.		
+0006426A/2196/0	_Restart Snagit	_Restart Snagit		
+0006426A/2197/0	_Cancel	_Cancel		
+0006426A/2198/0	The directory does not exist. Please select another folder.	The directory does not exist. Please select another folder.		
+0006426A/2199/0	Internal Error: Unable to retrieve information on folders.	Internal Error: Unable to retrieve information on folders.		
+0006426A/2200/0	Snagit cannot move the automatically stored files to a removable drive or network share. 	Snagit cannot move the automatically stored files to a removable drive or network share. 		
+0006426A/2201/0	The selected folder contains existing files. If you uninstall Snagit, these files may be deleted. It is recommended to select a new or empty folder.	The selected folder contains existing files. If you uninstall Snagit, these files may be deleted. It is recommended to select a new or empty folder.		
+0006426A/2202/0	Unable to change the automatically stored files directory location. Please try again.	Unable to change the automatically stored files directory location. Please try again.		
+0006426A/2203/0	Moving the automatically stored files.  Please wait.	Moving the automatically stored files.  Please wait.		
+0006426A/2204/0	The automatically stored files cannot be moved to a subfolder within its current location. Please select another folder location.	The automatically stored files cannot be moved to a subfolder within its current location. Please select another folder location.		
+0006426A/2205/0	Unable to locate the automatically stored files directory.	Unable to locate the automatically stored files directory.		
+0006426A/2206/0	Browse For Location...	Browse For Location...		
+0006426A/2207/0	Use Default Location	Use Default Location		
+0006426A/2208/0	Quit	Quit		
+0006426A/2209/0	This directory is missing the Snagit database file used for automatically stored files.	This directory is missing the Snagit database file used for automatically stored files.		
+0006426A/2210/0	Snagit will create a new location for automatically saved captures. You will no longer be able to access any of your previous automatically saved captures. Do you want to continue?	Snagit will create a new location for automatically saved captures. You will no longer be able to access any of your previous automatically saved captures. Do you want to continue?		
+0006426A/2211/0	Create New Image	Create New Image		
+0006426A/2212/0	Batch Export	Batch Export		
+0006426A/2213/0	Show Capture Window	فتح نافذة الالتقاط		
+0006426A/2214/0	(Unknown)	(Unknown)		
+0006426A/2215/0	Unknown Application	Unknown Application		
+0006426A/2216/0	Unknown Version	Unknown Version		
+0006426A/2217/0	Unknown Operating System	Unknown Operating System		
+0006426A/2218/0	An error occurred while trying to encode your video capture. We've resolved the issue by switching to an alternate encoding method, so this shouldn't happen again. Please retry your capture.	An error occurred while trying to encode your video capture. We've resolved the issue by switching to an alternate encoding method, so this shouldn't happen again. Please retry your capture.		
+0006426A/2219/0	Click here	Click here		
+0006426A/2220/0	Click %1	Click %1		
+0006426A/2221/0	Click on %1	Click on %1		
+0006426A/2222/0	Click %1 on %2	Click %1 on %2		
+0006426A/2223/0	Click "%1"	Click "%1"		
+0006426A/2224/0	Click "%1" %2	Click "%1" %2		
+0006426A/2225/0	Click "%1" on %2	Click "%1" on %2		
+0006426A/2226/0	Click "%1" %2 on %3	Click "%1" %2 on %3		
+0006426A/2227/0	Right-click here	Right-click here		
+0006426A/2228/0	Right-click %1	Right-click %1		
+0006426A/2229/0	Right-click on %1	Right-click on %1		
+0006426A/2230/0	Right-click %1 on %2	Right-click %1 on %2		
+0006426A/2231/0	Right-click "%1"	Right-click "%1"		
+0006426A/2232/0	Right-click "%1" %2	Right-click "%1" %2		
+0006426A/2233/0	Right-click "%1" on %2	Right-click "%1" on %2		
+0006426A/2234/0	Right-click "%1" %2 on %3	Right-click "%1" %2 on %3		
+0006426A/2235/0	Double-click here	Double-click here		
+0006426A/2236/0	Double-click %1	Double-click %1		
+0006426A/2237/0	Double-click on %1	Double-click on %1		
+0006426A/2238/0	Double-click %1 on %2	Double-click %1 on %2		
+0006426A/2239/0	Double-click "%1"	Double-click "%1"		
+0006426A/2240/0	Double-click "%1" %2	Double-click "%1" %2		
+0006426A/2241/0	Double-click "%1" on %2	Double-click "%1" on %2		
+0006426A/2242/0	Double-click "%1" %2 on %3	Double-click "%1" %2 on %3		
+0006426A/2243/0	Drag from here	Drag from here		
+0006426A/2244/0	Drag from %1	Drag from %1		
+0006426A/2245/0	Drag from %1	Drag from %1		
+0006426A/2246/0	Drag from %1 on %2	Drag from %1 on %2		
+0006426A/2247/0	Drag from "%1"	Drag from "%1"		
+0006426A/2248/0	Drag from "%1" %2	Drag from "%1" %2		
+0006426A/2249/0	Drag from "%1" on %2	Drag from "%1" on %2		
+0006426A/2250/0	Drag from "%1" %2 on %3	Drag from "%1" %2 on %3		
+0006426A/2251/0	Right-drag from here	Right-drag from here		
+0006426A/2252/0	Right-drag from %1	Right-drag from %1		
+0006426A/2253/0	Right-drag from %1	Right-drag from %1		
+0006426A/2254/0	Right-drag from %1 on %2	Right-drag from %1 on %2		
+0006426A/2255/0	Right-drag from "%1"	Right-drag from "%1"		
+0006426A/2256/0	Right-drag from "%1" %2	Right-drag from "%1" %2		
+0006426A/2257/0	Right-drag from "%1" on %2	Right-drag from "%1" on %2		
+0006426A/2258/0	Right-drag from "%1" %2 on %3	Right-drag from "%1" %2 on %3		
+0006426A/2259/0	Drop to here	Drop to here		
+0006426A/2260/0	Drop to %1	Drop to %1		
+0006426A/2261/0	Drop to %1	Drop to %1		
+0006426A/2262/0	Drop to %1 on %2	Drop to %1 on %2		
+0006426A/2263/0	Drop to "%1"	Drop to "%1"		
+0006426A/2264/0	Drop to "%1" %2	Drop to "%1" %2		
+0006426A/2265/0	Drop to "%1" on %2	Drop to "%1" on %2		
+0006426A/2266/0	Drop to "%1" %2 on %3	Drop to "%1" %2 on %3		
+0006426A/2267/0	%s option	%s option		
+0006426A/2268/0	The folder path or file name is too long	The folder path or file name is too long		
+0006426A/2269/0	Do you really want to cancel?	Do you really want to cancel?		
+0006426A/2270/0	%s already exists.\nDo you want to replace it?	%s already exists.\nDo you want to replace it?		
+0006426A/2271/0	Snagit	Snagit		
+0006426A/2272/0	Snagit internal error	Snagit internal error		
+0006426A/2273/0	Connecting to FTP server...	Connecting to FTP server...		
+0006426A/2274/0	Setting current directory...	Setting current directory...		
+0006426A/2275/0	Sending file to FTP server...	Sending file to FTP server...		
+0006426A/2276/0	Removing file on FTP server...	Removing file on FTP server...		
+0006426A/2277/0	Renaming file on FTP server...	Renaming file on FTP server...		
+0006426A/2278/0	Unknown exception	Unknown exception		
+0006426A/2279/0	DLL delay loading failed	DLL delay loading failed		
+0006426A/2280/0	Unable to set remote directory (%lX)	Unable to set remote directory (%lX)		
+0006426A/2281/0	Unable to rename file on FTP server (%lX)	Unable to rename file on FTP server (%lX)		
+0006426A/2282/0	GIF Files (*.gif)	GIF Files (*.gif)		
+0006426A/2283/0	MP4 Files (*.mp4)	MP4 Files (*.mp4)		
+0006426A/2284/0	Send with FTP	Send with FTP		
+0006426A/2285/0	The current scale setting is too large to print across one page.\r\nDo you wish to continue and use the maximum allowed scale size for this image?	The current scale setting is too large to print across one page.\r\nDo you wish to continue and use the maximum allowed scale size for this image?		
+0006426A/2286/0	Snagit cannot print to a Snagit printer. Select File > Print... to change the printer.	Snagit cannot print to a Snagit printer. Select File > Print... to change the printer.		
+0006426A/2287/0	Snagit cannot print to a Snagit printer. Select Output > Properties... to change the output printer.	Snagit cannot print to a Snagit printer. Select Output > Properties... to change the output printer.		
+0006426A/2288/0	Printer does not support bitmaps.	Printer does not support bitmaps.		
+0006426A/2289/0	No image is available.  Canceling print process.	No image is available.  Canceling print process.		
+0006426A/2290/0	Unable to output screen capture.	Unable to output screen capture.		
+0006426A/2291/0	Save As	Save As		
+0006426A/2292/0	Unable to output screen capture.\nThe capture is available at the following location:\n\n%s	Unable to output screen capture.\nThe capture is available at the following location:\n\n%s		
+0006426A/2293/0	The database file may be corrupted.	The database file may be corrupted.		
+0006426A/2294/0	There is a file locking violation.	There is a file locking violation.		
+0006426A/2295/0	There is a file sharing violation.	There is a file sharing violation.		
+0006426A/2296/0	Access to the database file is not allowed.	Access to the database file is not allowed.		
+0006426A/2297/0	There is not enough disk space left for the database.	There is not enough disk space left for the database.		
+0006426A/2298/0	Unknown database error.	Unknown database error.		
+0006426A/2299/0	Error code: %d	Error code: %d		
+0006426A/2300/0	Snagit	Snagit		
+0006426A/2301/0	Ready	Ready		
+0006426A/2302/0	Open this file	Open this file		
+0006426A/2303/0	Open this file	Open this file		
+0006426A/2304/0	Open this file	Open this file		
+0006426A/2305/0	Open this file	Open this file		
+0006426A/2306/0	Open this file	Open this file		
+0006426A/2307/0	Open this file	Open this file		
+0006426A/2308/0	Open this file	Open this file		
+0006426A/2309/0	Open this file	Open this file		
+0006426A/2310/0	Open this file	Open this file		
+0006426A/2311/0	Open this file	Open this file		
+0006426A/2312/0	Open this file	Open this file		
+0006426A/2313/0	Open this file	Open this file		
+0006426A/2314/0	Open this file	Open this file		
+0006426A/2315/0	Open this file	Open this file		
+0006426A/2316/0	Open this file	Open this file		
+0006426A/2317/0	Open this file	Open this file		
+0006426A/2318/0	Display the software version number and license information\nAbout	Display the software version number and license information\nAbout		
+0006426A/2319/0	Exit Snagit\nExit	Exit Snagit\nExit		
+0006426A/2320/0	Close Print Preview\n&Close	Close Print Preview\n&Close		
+0006426A/2321/0	Toggle One/Two Pages display\nToggle One/Two Pages display	Toggle One/Two Pages display\nToggle One/Two Pages display		
+0006426A/2322/0	Next Page\nNext Page	Next Page\nNext Page		
+0006426A/2323/0	Previous Page\nPrevious Page	Previous Page\nPrevious Page		
+0006426A/2324/0	Print Document\n&Print	Print Document\n&Print		
+0006426A/2325/0	Zoom In\nZoom In	Zoom In\nZoom In		
+0006426A/2326/0	Zoom Out\nZoom Out	Zoom Out\nZoom Out		
+0006426A/2327/0	EXT	EXT		
+0006426A/2328/0	CAP	CAP		
+0006426A/2329/0	NUM	NUM		
+0006426A/2330/0	SCRL	SCRL		
+0006426A/2331/0	OVR	OVR		
+0006426A/2332/0	REC	REC		
+0006426A/2333/0	Change the window size	Change the window size		
+0006426A/2334/0	Change the window position	Change the window position		
+0006426A/2335/0	Reduce the window to an icon	Reduce the window to an icon		
+0006426A/2336/0	Enlarge the window to full size	Enlarge the window to full size		
+0006426A/2337/0	Switch to the next document window	Switch to the next document window		
+0006426A/2338/0	Switch to the previous document window	Switch to the previous document window		
+0006426A/2339/0	Exit Snagit	Exit Snagit		
+0006426A/2340/0	Restore the window to normal size	Restore the window to normal size		
+0006426A/2341/0	Activate Task List	Activate Task List		
+0006426A/2342/0	Open	Open		
+0006426A/2343/0	Save As	Save As		
+0006426A/2344/0	All Files (*.*)	All Files (*.*)		
+0006426A/2345/0	Untitled	Untitled		
+0006426A/2346/0	an unnamed file	an unnamed file		
+0006426A/2347/0	&Hide	&Hide		
+0006426A/2348/0	No error message is available.	No error message is available.		
+0006426A/2349/0	Attempted an unsupported operation.	Attempted an unsupported operation.		
+0006426A/2350/0	A required resource was unavailable.	A required resource was unavailable.		
+0006426A/2351/0	Out of memory.	Out of memory.		
+0006426A/2352/0	An unknown error has occurred.	An unknown error has occurred.		
+0006426A/2353/0	Encountered an improper argument.	Encountered an improper argument.		
+0006426A/2354/0	on %1	on %1		
+0006426A/2355/0	&One Page	&One Page		
+0006426A/2356/0	&Two Page	&Two Page		
+0006426A/2357/0	Page %u	Page %u		
+0006426A/2358/0	Page %u\nPages %u-%u\n	Page %u\nPages %u-%u\n		
+0006426A/2359/0	prn	prn		
+0006426A/2360/0	Output.prn	Output.prn		
+0006426A/2361/0	Printer Files (*.prn)|*.prn|All Files (*.*)|*.*||	Printer Files (*.prn)|*.prn|All Files (*.*)|*.*||		
+0006426A/2362/0	Print to File	Print to File		
+0006426A/2363/0	to %1	to %1		
+0006426A/2364/0	Incorrect filename.	Incorrect filename.		
+0006426A/2365/0	Failed to open document.	Failed to open document.		
+0006426A/2366/0	Failed to save document.	Failed to save document.		
+0006426A/2367/0	Save changes to %1?	Save changes to %1?		
+0006426A/2368/0	Failed to create empty document.	Failed to create empty document.		
+0006426A/2369/0	The file is too large to open.	The file is too large to open.		
+0006426A/2370/0	Could not start print job.	Could not start print job.		
+0006426A/2371/0	Failed to launch help.	Failed to launch help.		
+0006426A/2372/0	Internal application error.	Internal application error.		
+0006426A/2373/0	Command failed.	Command failed.		
+0006426A/2374/0	Insufficient memory to perform operation.	Insufficient memory to perform operation.		
+0006426A/2375/0	System registry entries have been removed and the INI file (if any) was deleted.	System registry entries have been removed and the INI file (if any) was deleted.		
+0006426A/2376/0	Not all of the system registry entries (or INI file) were removed.	Not all of the system registry entries (or INI file) were removed.		
+0006426A/2377/0	This program requires the file %Ts, which was not found on this system.	This program requires the file %Ts, which was not found on this system.		
+0006426A/2378/0	This program is linked to the missing export %Ts in the file %Ts. This machine may have an incompatible version of %Ts.	This program is linked to the missing export %Ts in the file %Ts. This machine may have an incompatible version of %Ts.		
+0006426A/2379/0	Enter an integer.	Enter an integer.		
+0006426A/2380/0	Enter a number.	Enter a number.		
+0006426A/2381/0	Enter an integer between %1 and %2.	Enter an integer between %1 and %2.		
+0006426A/2382/0	Enter a number between %1 and %2.	Enter a number between %1 and %2.		
+0006426A/2383/0	Enter no more than %1 characters.	Enter no more than %1 characters.		
+0006426A/2384/0	Select a button.	Select a button.		
+0006426A/2385/0	Enter an integer between 0 and 255.	Enter an integer between 0 and 255.		
+0006426A/2386/0	Enter a positive integer.	Enter a positive integer.		
+0006426A/2387/0	Enter a date and/or time.	Enter a date and/or time.		
+0006426A/2388/0	Enter a currency.	Enter a currency.		
+0006426A/2389/0	Enter a GUID.	Enter a GUID.		
+0006426A/2390/0	Enter a time.	Enter a time.		
+0006426A/2391/0	Enter a date.	Enter a date.		
+0006426A/2392/0	Unexpected file format.	Unexpected file format.		
+0006426A/2393/0	%1\nCannot find this file.\nVerify that the correct path and file name are given.	%1\nCannot find this file.\nVerify that the correct path and file name are given.		
+0006426A/2394/0	Destination disk drive is full.	Destination disk drive is full.		
+0006426A/2395/0	Unable to read from %1, it is opened by someone else.	Unable to read from %1, it is opened by someone else.		
+0006426A/2396/0	Unable to write to %1, it is read-only or opened by someone else.	Unable to write to %1, it is read-only or opened by someone else.		
+0006426A/2397/0	Encountered an unexpected error while reading %1.	Encountered an unexpected error while reading %1.		
+0006426A/2398/0	Encountered an unexpected error while writing %1.	Encountered an unexpected error while writing %1.		
+0006426A/2399/0	%1: %2\nContinue running script?	%1: %2\nContinue running script?		
+0006426A/2400/0	Dispatch exception: %1	Dispatch exception: %1		
+0006426A/2401/0	Unable to read write-only property.	Unable to read write-only property.		
+0006426A/2402/0	Unable to write read-only property.	Unable to write read-only property.		
+0006426A/2403/0	Unable to load mail system support.	Unable to load mail system support.		
+0006426A/2404/0	Mail system DLL is invalid.	Mail system DLL is invalid.		
+0006426A/2405/0	Send Mail failed to send message.	Send Mail failed to send message.		
+0006426A/2406/0	No error occurred.	No error occurred.		
+0006426A/2407/0	An unknown error occurred while accessing %1.	An unknown error occurred while accessing %1.		
+0006426A/2408/0	%1 was not found.	%1 was not found.		
+0006426A/2409/0	%1 contains an incorrect path.	%1 contains an incorrect path.		
+0006426A/2410/0	Could not open %1 because there are too many open files.	Could not open %1 because there are too many open files.		
+0006426A/2411/0	Access to %1 was denied.	Access to %1 was denied.		
+0006426A/2412/0	An incorrect file handle was associated with %1.	An incorrect file handle was associated with %1.		
+0006426A/2413/0	Could not remove %1 because it is the current directory.	Could not remove %1 because it is the current directory.		
+0006426A/2414/0	Could not create %1 because the directory is full.	Could not create %1 because the directory is full.		
+0006426A/2415/0	Seek failed on %1	Seek failed on %1		
+0006426A/2416/0	Encountered a hardware I/O error while accessing %1.	Encountered a hardware I/O error while accessing %1.		
+0006426A/2417/0	Encountered a sharing violation while accessing %1.	Encountered a sharing violation while accessing %1.		
+0006426A/2418/0	Encountered a locking violation while accessing %1.	Encountered a locking violation while accessing %1.		
+0006426A/2419/0	Disk full while accessing %1.	Disk full while accessing %1.		
+0006426A/2420/0	Attempted to access %1 past its end.	Attempted to access %1 past its end.		
+0006426A/2421/0	No error occurred.	No error occurred.		
+0006426A/2422/0	An unknown error occurred while accessing %1.	An unknown error occurred while accessing %1.		
+0006426A/2423/0	Attempted to write to the reading %1.	Attempted to write to the reading %1.		
+0006426A/2424/0	Attempted to access %1 past its end.	Attempted to access %1 past its end.		
+0006426A/2425/0	Attempted to read from the writing %1.	Attempted to read from the writing %1.		
+0006426A/2426/0	%1 has a bad format.	%1 has a bad format.		
+0006426A/2427/0	%1 contained an unexpected object.	%1 contained an unexpected object.		
+0006426A/2428/0	%1 contains an incorrect schema.	%1 contains an incorrect schema.		
+0006426A/2429/0	pixels	pixels		
+0006426A/2430/0	Uncheck	Uncheck		
+0006426A/2431/0	Check	Check		
+0006426A/2432/0	Mixed	Mixed		
+0006426A/2433/0	One or more auto-saved documents were found.	One or more auto-saved documents were found.		
+0006426A/2434/0	These are more recently saved than the currently open documents and contain changes that were made before the application closed.	These are more recently saved than the currently open documents and contain changes that were made before the application closed.		
+0006426A/2435/0	Do you want to recover these auto-saved documents?	Do you want to recover these auto-saved documents?		
+0006426A/2436/0	Note that if you choose to recover the auto-saved documents, you must explicitly save them to overwrite the original documents.  If you choose to not recover the auto-saved versions, they will be deleted.	Note that if you choose to recover the auto-saved documents, you must explicitly save them to overwrite the original documents.  If you choose to not recover the auto-saved versions, they will be deleted.		
+0006426A/2437/0	Recover the auto-saved documents\nOpen the auto-saved versions instead of the explicitly saved versions	Recover the auto-saved documents\nOpen the auto-saved versions instead of the explicitly saved versions		
+0006426A/2438/0	Don't recover the auto-saved documents\nUse the last explicitly saved versions of the documents	Don't recover the auto-saved documents\nUse the last explicitly saved versions of the documents		
+0006426A/2439/0	%Ts [Recovered]	%Ts [Recovered]		
+0006426A/2440/0	VK_NEXT	VK_NEXT		
+0006426A/2441/0	VK_PRIOR	VK_PRIOR		
+0006426A/2442/0	VK_ESCAPE	VK_ESCAPE		
+0006426A/2443/0	26,3,1,11825	26,3,1,11825		
+0006426A/2444/0	26,3,1,11825	26,3,1,11825		
+0006426A/2445/0	TechSmith Corporation	TechSmith Corporation		
+0006426A/2446/0	Snagit Resource DLL	Snagit Resource DLL		
+0006426A/2447/0	26.3.1.11825	26.3.1.11825		
+0006426A/2448/0	SnagitRes.dll	SnagitRes.dll		
+0006426A/2449/0	Copyright 1996-2026 TechSmith Corp. All rights reserved.	Copyright 1996-2026 TechSmith Corp. All rights reserved.		
+0006426A/2450/0	SnagitRes.dll	SnagitRes.dll		
+0006426A/2451/0	Snagit	Snagit		
+0006426A/2452/0	26.3.1.11825	26.3.1.11825		
+0006426A/2453/0	None	None		
+0006426A/2454/0	Unfold	Unfold		
+0006426A/2455/0	Slide	Slide		
+0006426A/2456/0	Fade	Fade		
+0006426A/2457/0	[Default]	[Default]		
+0006426A/2458/0	Empty	Empty		
+0006426A/2459/0	No Gradient	No Gradient		
+0006426A/2460/0	Gradient Horizontal	Gradient Horizontal		
+0006426A/2461/0	Gradient Vertical	Gradient Vertical		
+0006426A/2462/0	Gradient Diagonal Left	Gradient Diagonal Left		
+0006426A/2463/0	Gradient Diagonal Right	Gradient Diagonal Right		
+0006426A/2464/0	Gradient Center Horizontal	Gradient Center Horizontal		
+0006426A/2465/0	Gradient Center Vertical	Gradient Center Vertical		
+0006426A/2466/0	Gradient Radial Top	Gradient Radial Top		
+0006426A/2467/0	Gradient Radial Center	Gradient Radial Center		
+0006426A/2468/0	Gradient Radial Bottom	Gradient Radial Bottom		
+0006426A/2469/0	Gradient Radial Left	Gradient Radial Left		
+0006426A/2470/0	Gradient Radial Right	Gradient Radial Right		
+0006426A/2471/0	Gradient Radial Top Left	Gradient Radial Top Left		
+0006426A/2472/0	Gradient Radial Top Right	Gradient Radial Top Right		
+0006426A/2473/0	Gradient Radial Bottom Left	Gradient Radial Bottom Left		
+0006426A/2474/0	Gradient Radial Bottom Right	Gradient Radial Bottom Right		
+0006426A/2475/0	Gradient Bevel	Gradient Bevel		
+0006426A/2476/0	Gradient Pipe Vertical	Gradient Pipe Vertical		
+0006426A/2477/0	Gradient Pipe Horizontal	Gradient Pipe Horizontal		
+0006426A/2478/0	Default	Default		
+0006426A/2479/0	Western	Western		
+0006426A/2480/0	Japanese	Japanese		
+0006426A/2481/0	Hangul	Hangul		
+0006426A/2482/0	Chinese GB2312	Chinese GB2312		
+0006426A/2483/0	Chinese Big5	Chinese Big5		
+0006426A/2484/0	Hangul  (Johab)	Hangul  (Johab)		
+0006426A/2485/0	Hebrew	Hebrew		
+0006426A/2486/0	Arabic	Arabic		
+0006426A/2487/0	Greek	Greek		
+0006426A/2488/0	Turkish	Turkish		
+0006426A/2489/0	Vietnamese	Vietnamese		
+0006426A/2490/0	Thai	Thai		
+0006426A/2491/0	Central European	Central European		
+0006426A/2492/0	Cyrillic	Cyrillic		
+0006426A/2493/0	Baltic	Baltic		
+0006426A/2494/0	8	8		
+0006426A/2495/0	9	9		
+0006426A/2496/0	10	10		
+0006426A/2497/0	11	11		
+0006426A/2498/0	12	12		
+0006426A/2499/0	14	14		
+0006426A/2500/0	16	16		
+0006426A/2501/0	18	18		
+0006426A/2502/0	20	20		
+0006426A/2503/0	22	22		
+0006426A/2504/0	24	24		
+0006426A/2505/0	26	26		
+0006426A/2506/0	28	28		
+0006426A/2507/0	36	36		
+0006426A/2508/0	48	48		
+0006426A/2509/0	72	72		
+0006426A/2510/0	Normal	Normal		
+0006426A/2511/0	Oblique	Oblique		
+0006426A/2512/0	Italic	Italic		
+0006426A/2513/0	Thin	Thin		
+0006426A/2514/0	Extra-light	Extra-light		
+0006426A/2515/0	Light	Light		
+0006426A/2516/0	Normal	Normal		
+0006426A/2517/0	Medium	Medium		
+0006426A/2518/0	Semi-bold	Semi-bold		
+0006426A/2519/0	Bold	Bold		
+0006426A/2520/0	Extra-bold	Extra-bold		
+0006426A/2521/0	Black	Black		
+0006426A/2522/0	Extra-black	Extra-black		
+0006426A/2523/0	Leading	Leading		
+0006426A/2524/0	Trailing	Trailing		
+0006426A/2525/0	Center	Center		
+0006426A/2526/0	Leading	Leading		
+0006426A/2527/0	Trailing	Trailing		
+0006426A/2528/0	Center	Center		
+0006426A/2529/0	-180	-180		
+0006426A/2530/0	-135	-135		
+0006426A/2531/0	-90	-90		
+0006426A/2532/0	-45	-45		
+0006426A/2533/0	0	0		
+0006426A/2534/0	45	45		
+0006426A/2535/0	90	90		
+0006426A/2536/0	135	135		
+0006426A/2537/0	180	180		
+0006426A/2538/0	All Tabs	All Tabs		
+0006426A/2539/0	Main Tabs	Main Tabs		
+0006426A/2540/0	Tool Tabs	Tool Tabs		
+0006426A/2541/0	All Tabs	All Tabs		
+0006426A/2542/0	Main Tabs	Main Tabs		
+0006426A/2543/0	Tool Tabs	Tool Tabs		
